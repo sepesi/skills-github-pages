@@ -23,7 +23,7 @@ direction or another. [...]</p>
 integrity--is, I'm sorry to say, something that we haven't specifically included in any
 particular course that I know of. We just hope you've caught on by osmosis.</p>
 </blockquote>
-<pp>Going beyond the hope of teching scientific integrity through osmosis, this essay proposes that Google's <a href="https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist">co-scientist</a> AI agent is an exciting and practical approach to developing scientific integrity that Feynan was hoping for.</pp>
+<pp>Going beyond the hope of teching scientific integrity through osmosis, this essay proposes that Google's <a href="https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist">co-scientist</a> AI agent is an exciting and practical approach to developing scientific integrity, as Feynan hoped.</pp>
 
 <h1>2. Previous work</h1>
 <h1>3. Architecture</h1>
