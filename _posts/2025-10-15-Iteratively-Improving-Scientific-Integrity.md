@@ -18,7 +18,10 @@ to explain it. If you make a theory, for example, and advertise it, or put it ou
 must also put down all the facts that disagree with it, as well as those that agree with it. [...]</p>
   <p>In summary, the idea is to give all of the information to help others to judge the value
 of your contribution; not just the information that leads to judgement in one particular
-direction or another</p>
+direction or another. [...]</p>
+  <p>But this long history of learning how to not fool ourselves--of having utter scientific
+integrity--is, I'm sorry to say, something that we haven't specifically included in any
+particular course that I know of. We just hope you've caught on by osmosis</p>
 </blockquote>
 
 <h1>2. Previous work</h1>
