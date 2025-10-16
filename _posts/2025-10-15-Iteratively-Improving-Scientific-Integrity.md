@@ -33,7 +33,7 @@ particular course that I know of. We just hope you've caught on by osmosis.</p>
 <h1>6. Conclusion</h1>
 <p><a href="https://en.wikipedia.org/wiki/Paul_Buchheit">Paul Buchheit</a> was an early engineer (i.e., employee #23) at <a href="https://en.wikipedia.org/wiki/Google">Google</a>, before leaving in 2006 to co-found FriendFeed with <a href="https://en.wikipedia.org/wiki/Bret_Taylor">Bret Taylor</a>, the current chairman of <a href="https://en.wikipedia.org/wiki/OpenAI">OpenAI</a>. In 2009, <a href="https://en.wikipedia.org/wiki/Facebook">Facebook</a> acquired FriendFeed but Buchheit left Facebook in 2010 to become a partner at <a href="https://en.wikipedia.org/wiki/Y_Combinator">Y Combinator</a>. Buchheit is a thought-leader concerning technology's impact on society. In this <a href="https://youtu.be/LSUviaN1eso?t=874">YouTube interview</a> at Y Combinator, Buchheit talks about two possible outcomes of AI:</p>
 <blockquote>
-  <p><When we think about what is
+  <p>When we think about what is
 the long-term trajectory of AI, it's the most powerful technology we've ever
 invented. So the question is like where does that power go? And I think there's essentially two directions: you
 either go towards centralization where all the power gets centralized in the government or in a small 
