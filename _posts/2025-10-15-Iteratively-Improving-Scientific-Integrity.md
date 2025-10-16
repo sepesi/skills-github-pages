@@ -40,5 +40,5 @@ either go towards centralization where all the power gets centralized in the gov
 number of big tech companies or something like that and my feeling is that that's catastrophic for the human
 species because you essentially minimize the agency and power of the individual, and I think the opposite
 direction is towards freedom and, as much as possible, we should give this
-power and these capabilities to every individual to be the best version of themselves./p>
+power and these capabilities to every individual to be the best version of themselves</p>
 </blockquote>
