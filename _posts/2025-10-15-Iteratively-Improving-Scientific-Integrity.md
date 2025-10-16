@@ -2,30 +2,7 @@
 title: "Iteratively Improving Scientific Integrity"
 date: 2025-10-15
 ---
-This
-====
-abcdefg
-
-Is
-==
-hijklmnop
-
-A
-=
-012 345
-
-Test
-====
-6789
-> the same ??
-> 
-> Markdown uses email-style
-characters for blockquoting.
->
-> Multiple paragraphs need to be prepended individually.
-
-Introduction
-============
+# 1. Introduction
 <a href="https://en.wikipedia.org/wiki/Richard_Feynman">Richard Feynman</a> received the Nobel Prize in Physics in 1965 for his contributions to the development of quantum electrodynamics. In 1974, he gave a Caltech <a href="https://faculty.sites.iastate.edu/tesfatsi/archive/tesfatsi/CargoCultScience.RichardFeynman1974.pdf">commencement address</a> in which he told a story of a society that wanted the benefits of scientific progress, and did what it imagined were the necessary steps for that progress, but progress never happened because they lacked “scientific integrity.” Feynman explains,
   
 > It's a kind of scientific integrity,
@@ -51,20 +28,20 @@ particular course that I know of. We just hope you've caught on by osmosis.
 
 Going beyond the hope of learning scientific integrity through osmosis, this essay proposes that Google's new <a href="https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist">co-scientist</a> AI agent is a practical approach to the widespread development of scientific integrity, as Feynan had hoped.  
 
-Previous work
-=============
+# 2. Previous work
+
  
-Architecture
-============
+# 3. Architecture
 
-Test case
-=========
 
-Other candidate test cases
-==========================
+# 4. Test case
 
-Conclusion
-==========
+
+# 5. Other candidate test cases
+
+
+# 6. Conclusion
+
 <a href="https://en.wikipedia.org/wiki/Paul_Buchheit">Paul Buchheit</a> was an early engineer (i.e., employee #23) at <a href="https://en.wikipedia.org/wiki/Google">Google</a> before leaving in 2006 to co-found FriendFeed with <a href="https://en.wikipedia.org/wiki/Bret_Taylor">Bret Taylor</a>, now the chairman of <a href="https://en.wikipedia.org/wiki/OpenAI">OpenAI</a>. In 2009, <a href="https://en.wikipedia.org/wiki/Facebook">Facebook</a> acquired FriendFeed but Buchheit left Facebook in 2010 to become a partner at <a href="https://en.wikipedia.org/wiki/Y_Combinator">Y Combinator</a>. Buchheit is a thought-leader concerning technology's impact on society. In this <a href="https://youtu.be/LSUviaN1eso?t=874">YouTube interview</a> at Y Combinator, Buchheit talks about two possible outcomes of AI:
 <blockquote>
   <p>When we think about what is
