@@ -23,7 +23,7 @@ direction or another. [...]</p>
 integrity--is, I'm sorry to say, something that we haven't specifically included in any
 particular course that I know of. We just hope you've caught on by osmosis.</p>
 </blockquote>
-<pp>Going beyond the hope of teaching scientific integrity through osmosis, this essay proposes that Google's new <a href="https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist">co-scientist</a> AI agent is a practical approach to the widespread development of scientific integrity, as Feynan had hoped.</pp>
+<pp>Going beyond the hope of learning scientific integrity through osmosis, this essay proposes that Google's new <a href="https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist">co-scientist</a> AI agent is a practical approach to the widespread development of scientific integrity, as Feynan had hoped.</pp>
 <br/>
 <h1>2. Previous work</h1>
 <h2>2.1 
@@ -31,3 +31,4 @@ particular course that I know of. We just hope you've caught on by osmosis.</p>
 <h1>4. Test case</h1>
 <h1>5. Other candidate test cases</h1>
 <h1>6. Conclusion</h1>
+<p><a href="https://en.wikipedia.org/wiki/Paul_Buchheit">Paul Buchheit</a> was an early engineer (i.e., employee #23) at Google, before leaving in 2006 to co-found FriendFeed with <a href="https://en.wikipedia.org/wiki/Bret_Taylor">Bret Taylor</a>, the current chairman of <a href="https://en.wikipedia.org/wiki/OpenAI">OpenAI</a>. In 2009, <a href="https://en.wikipedia.org/wiki/Facebook">Facebook</a> acquired FriendFeed. In 2010, Buchheit left Facebook to become a partner at <a href="https://en.wikipedia.org/wiki/Y_Combinator">Y Combinator</a>.</p>
