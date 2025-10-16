@@ -3,7 +3,7 @@ title: "Iteratively Improving Scientific Integrity"
 date: 2025-10-15
 ---
 <h1>1. Introduction</h1>
-<p><a href="https://en.wikipedia.org/wiki/Richard_Feynman">Richard Feynman</a> received the Nobel Prize in Physics in 1965 for his contributions to the development of quantum electrodynamics. In 1974, he gave a Caltech <a href="https://faculty.sites.iastate.edu/tesfatsi/archive/tesfatsi/CargoCultScience.RichardFeynman1974.pdf">commencement addres</a> in which he told a story of a society that wants progress, and does what it imagines are the necessary steps for progress, but progress never happens because they lack “scientific integrity.”</p>
+<p><a href="https://en.wikipedia.org/wiki/Richard_Feynman">Richard Feynman</a> received the Nobel Prize in Physics in 1965 for his contributions to the development of quantum electrodynamics. In 1974, he gave a Caltech <a href="https://faculty.sites.iastate.edu/tesfatsi/archive/tesfatsi/CargoCultScience.RichardFeynman1974.pdf">commencement addres</a> in which he told a story of a society that wants progress, and does what it imagines are the necessary steps for progress, but progress never happens because they lack “scientific integrity.” Feynman explains,</p>
 <blockquote>
   <p>It's a kind of scientific integrity,
 a principle of scientific thought that corresponds to a kind of utter honesty--a kind of
@@ -15,7 +15,10 @@ other fellow can tell they have been eliminated.</p>
   <p>Details that could throw doubt on your interpretation must be given, if you know them.
 You must do the best you can--if you know anything at all wrong, or possibly wrong--
 to explain it. If you make a theory, for example, and advertise it, or put it out, then you
-must also put down all the facts that disagree with it, as well as those that agree with it.</p>
+must also put down all the facts that disagree with it, as well as those that agree with it. [...]</p>
+  <p>In summary, the idea is to give all of the information to help others to judge the value
+of your contribution; not just the information that leads to judgement in one particular
+direction or another</p>
 </blockquote>
 
 <h1>2. Previous work</h1>
