@@ -2,6 +2,18 @@
 title: "Iteratively Improving Scientific Integrity"
 date: 2025-10-15
 ---
+This
+====
+
+Is
+==
+
+
+A
+=
+Test
+====
+
 Introduction
 ============
 <p><a href="https://en.wikipedia.org/wiki/Richard_Feynman">Richard Feynman</a> received the Nobel Prize in Physics in 1965 for his contributions to the development of quantum electrodynamics. In 1974, he gave a Caltech <a href="https://faculty.sites.iastate.edu/tesfatsi/archive/tesfatsi/CargoCultScience.RichardFeynman1974.pdf">commencement address</a> in which he told a story of a society that wanted the benefits of scientific progress, and did what it imagined were the necessary steps for that progress, but progress never happened because they lacked “scientific integrity.” Feynman explains,
