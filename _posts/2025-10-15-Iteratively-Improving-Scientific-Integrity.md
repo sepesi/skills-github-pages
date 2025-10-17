@@ -59,4 +59,4 @@ In the news, AI centralization has a lot of momentum. For example, most of the n
 - _BlackRock’s $40 billion deal highlights the unstoppable AI data center gold rush, as CEO Larry Fink pushes back on AI bubble fears_, [Fortune](https://fortune.com/2025/10/15/blackrocks-40-billion-deal-highlights-the-unstoppable-ai-data-center-gold-rush-as-ceo-larry-fink-pushes-back-on-ai-bubble-fears/), 2025-10-15.
 
 And AI that advances the capabilities of individuals has almost no momentumm. For example, AI is now taking entry level jobs that were a source of training for recent graduates:
-- 
+
