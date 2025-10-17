@@ -43,14 +43,19 @@ Going beyond the hope of learning scientific integrity through osmosis, this ess
 # 6. Conclusion
 
 [Paul Buchheit](https://en.wikipedia.org/wiki/Paul_Buchheit) was an early engineer (i.e., employee #23) at [Google](https://en.wikipedia.org/wiki/Google) before leaving in 2006 to co-found FriendFeed with [Bret Taylor](https://en.wikipedia.org/wiki/Bret_Taylor), now the chairman of [OpenAI](https://en.wikipedia.org/wiki/OpenAI). In 2009, [Facebook](https://en.wikipedia.org/wiki/Facebook) acquired FriendFeed but Buchheit left Facebook in 2010 to become a partner at [Y Combinator](https://en.wikipedia.org/wiki/Y_Combinator). Buchheit is a thought-leader concerning technology's impact on society. For example, in this [YouTube interview](https://youtu.be/LSUviaN1eso?t=874) at Y Combinator, Buchheit talks about two possible outcomes of AI:
-<blockquote>
-  <p>When we think about what is
+> When we think about what is
 the long-term trajectory of AI, it's the most powerful technology we've ever
-invented. So the question is like where does that power go? And I think there's essentially two directions: you
+invented. So the question is like where does that power go? I think there's essentially two directions: you
 either go towards centralization where all the power gets centralized in the government or in a small 
 number of big tech companies or something like that and my feeling is that that's catastrophic for the human
 species because you essentially minimize the agency and power of the individual, and I think the opposite
 direction is towards freedom and, as much as possible, we should give this
-power and these capabilities to every individual to be the best version of themselves</p>
-</blockquote>
-<p>There is plenty of evidence in recent news that the outcome for AI will be centralized power:</p>
+power and these capabilities to every individual to be the best version of themselves.
+
+According to the news, AI centralization has a lot of momentum. For example, most of the new compute capabilities are owned by a small number of big tech companies:
+- _Groups including BlackRock, Microsoft, Nvidia, and xAI join forces to acquire Aligned Data Centers — $40B deal delivers 5GW of operational and planned data center capacity_, [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/groups-including-blackrock-microsoft-nvidia-and-xai-join-forces-to-acquire-aligned-data-centers-usd40b-deal-delivers-5gw-of-operational-and-planned-data-center-capacity), 2025-10-14.
+- _Pennsylvania’s $70 Billion Race for America’s Data Centers_, [Data Center Knowledge](https://www.datacenterknowledge.com/energy-power-supply/pennsylvania-s-70-billion-race-for-america-s-data-centers), 2025-10-16.
+- _BlackRock’s $40 billion deal highlights the unstoppable AI data center gold rush, as CEO Larry Fink pushes back on AI bubble fears_, [Fortune](https://fortune.com/2025/10/15/blackrocks-40-billion-deal-highlights-the-unstoppable-ai-data-center-gold-rush-as-ceo-larry-fink-pushes-back-on-ai-bubble-fears/), 2025-10-15.
+
+  
+There is plenty of evidence in recent news that the outcome for AI will be centralized power:
