@@ -3,7 +3,7 @@ title: "Iteratively Improving Scientific Integrity"
 date: 2025-10-15
 ---
 # 1. Introduction
-[Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) received the Nobel Prize in Physics in 1965 for his contributions to the development of quantum electrodynamics. In 1974, he gave a Caltech [commencement address](ttps://faculty.sites.iastate.edu/tesfatsi/archive/tesfatsi/CargoCultScience.RichardFeynman1974.pdf) in which he told a story of a society that wanted the benefits of scientific progress, and did what it imagined were the necessary steps for that progress, but progress never happened because they lacked “scientific integrity.” Feynman explains,
+[Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) received the Nobel Prize in Physics in 1965 for his contributions to the development of quantum electrodynamics. In 1974, he gave a Caltech [commencement address](ttps://faculty.sites.iastate.edu/tesfatsi/archive/tesfatsi/CargoCultScience.RichardFeynman1974.pdf) in which he told a story about a society that wanted the benefits of scientific progress, and did what it imagined were the necessary steps for that progress, but progress never happened because they lacked “scientific integrity.” Feynman explains,
   
 > It's a kind of scientific integrity,
 a principle of scientific thought that corresponds to a kind of utter honesty--a kind of
@@ -42,7 +42,7 @@ Going beyond the hope of learning scientific integrity through osmosis, this ess
 
 # 6. Conclusion
 
-<a href="https://en.wikipedia.org/wiki/Paul_Buchheit">Paul Buchheit</a> was an early engineer (i.e., employee #23) at <a href="https://en.wikipedia.org/wiki/Google">Google</a> before leaving in 2006 to co-found FriendFeed with <a href="https://en.wikipedia.org/wiki/Bret_Taylor">Bret Taylor</a>, now the chairman of <a href="https://en.wikipedia.org/wiki/OpenAI">OpenAI</a>. In 2009, <a href="https://en.wikipedia.org/wiki/Facebook">Facebook</a> acquired FriendFeed but Buchheit left Facebook in 2010 to become a partner at <a href="https://en.wikipedia.org/wiki/Y_Combinator">Y Combinator</a>. Buchheit is a thought-leader concerning technology's impact on society. In this <a href="https://youtu.be/LSUviaN1eso?t=874">YouTube interview</a> at Y Combinator, Buchheit talks about two possible outcomes of AI:
+[Paul Buchheit](https://en.wikipedia.org/wiki/Paul_Buchheit") was an early engineer (i.e., employee #23) at [Google](https://en.wikipedia.org/wiki/Google") before leaving in 2006 to co-found FriendFeed with [Bret Taylor](https://en.wikipedia.org/wiki/Bret_Taylor), now the chairman of [OpenAI](https://en.wikipedia.org/wiki/OpenAI). In 2009, [Facebook](https://en.wikipedia.org/wiki/Facebook) acquired FriendFeed but Buchheit left Facebook in 2010 to become a partner at [Y Combinator](https://en.wikipedia.org/wiki/Y_Combinator). Buchheit is a thought-leader concerning technology's impact on society. In this [YouTube interview<](https://youtu.be/LSUviaN1eso?t=874) at Y Combinator, Buchheit talks about two possible outcomes of AI:
 <blockquote>
   <p>When we think about what is
 the long-term trajectory of AI, it's the most powerful technology we've ever
