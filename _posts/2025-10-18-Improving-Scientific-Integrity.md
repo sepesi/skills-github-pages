@@ -26,7 +26,7 @@ direction or another. [...]
 integrity--is, I'm sorry to say, something that we haven't specifically included in any
 particular course that I know of. We just hope you've caught on by osmosis.
 
-Going beyond the hope of learning scientific integrity through osmosis, this essay proposes that Google's new <a href="https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist">co-scientist</a> AI agent is a practical approach to the widespread development of scientific integrity, as Feynan had hoped.  
+Going beyond the hope of learning scientific integrity through osmosis, this essay proposes that Google's new [co-scientist](https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist) AI agent is a practical approach to the widespread development of scientific integrity, as Feynan had hoped.  
 
 # 2. Previous work
 
