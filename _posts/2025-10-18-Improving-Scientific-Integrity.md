@@ -29,7 +29,12 @@ particular course that I know of. We just hope you've caught on by osmosis.
 Going beyond the hope of learning scientific integrity through osmosis, this essay proposes that Google's new [co-scientist](https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist) AI agent is a practical approach to the widespread development of scientific integrity, as Feynan had hoped.  
 
 # 2. Previous work
+This Imprving Scientific Integrity proposal builds directly upon the following concepts and technologies.
 
+## 2.1 Edward Tufte's small mmultiple plot design
+A typical health record plot shows a time series of measurements. If there are many time series, they can be difficult to compare. For example, the popular MyChart by Epic Systems Corporation shows approximately one time series per web browser page with excessive white space between plots. Therefore, comparing two or more time series in MyChart needlessly wastes the reader's working memory.
+Figure 2-1 Screenshot of MyChart by Epic Systems Corporation showing a time series of red blood cell count measurements and the normal range with a green backgroundIn contrast to the style of MyChart plots, Edward Tufte's small multiple plots minimize white space and duplicate labeling to increase data density and therefore use less of the reader's working memory.² For example, Figure 2–2 displays the same red blood cell count time series as shown in Figure 2-1 but right next to other time series related to kidney function.
+Figure 2-2 Small multiple plots in a dashboard about kidney function (plotted by Julia and Makie). The proposed dashboards are organized by organ (e.g., kidney, heart, liver) instead of by blood test (e.g., Complete Blood Count). Each dashboard contains up to 16 time series small multiple plots (i.e., up to eight calendar time plots alongside their corresponding clock time plots).
  
 # 3. Architecture
 
