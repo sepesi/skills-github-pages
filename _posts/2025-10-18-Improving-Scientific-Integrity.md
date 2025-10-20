@@ -35,13 +35,13 @@ This Imprving Scientific Integrity proposal builds directly upon the following c
 A typical health record plot shows a time series of measurements. If there are many time series, they can be difficult to compare. For example, the popular MyChart by Epic Systems Corporation shows approximately one time series per web browser page with excessive white space between plots. Therefore, comparing two or more time series in MyChart needlessly wastes the reader's working memory.
 
 ![image](https://cdn-images-1.medium.com/max/1000/1*AEnXFI8X55eReQWFTnDDKQ.png "MyChart plot")
-Figure 2-1 Screenshot of MyChart by Epic Systems Corporation showing a time series of red blood cell count measurements and the normal range with a green background
+Figure 2-1 Screenshot of MyChart by Epic Systems Corporation showing a time series of red blood cell count measurements and the normal range with a green background  
 
 
 In contrast to the style of MyChart plots, Edward Tufte's small multiple plots increase data density and therefore use less of the reader's working memory.² For example, Figure 2–2 displays the same red blood cell count time series as shown in Figure 2-1 but right next to other time series related to kidney function.
 
 ![image](https://cdn-images-1.medium.com/max/1000/1*7ItYKCmFh9XYWzuCC86Y8g.png "small_multiple")
-Figure 2-2 Small multiple plots in a dashboard about kidney function (plotted by Julia and Makie). The proposed dashboards are organized by organ (e.g., kidney, heart, liver) instead of by blood test (e.g., Complete Blood Count). Each dashboard contains up to 16 time series small multiple plots (i.e., up to eight calendar time plots alongside their corresponding clock time plots).
+Figure 2-2 Small multiple plots in a dashboard about kidney function (plotted by Julia and Makie). The proposed dashboards are organized by organ (e.g., kidney, heart, liver) instead of by blood test (e.g., Complete Blood Count). Each dashboard contains up to 16 time series small multiple plots (i.e., up to eight calendar time plots alongside their corresponding clock time plots).  
 
 ## 2.2 Bayesian data analysis
 The Reverend Thomas Bayes first described his innovative approach to calculating probabilities in 1763. In 1812, the French polymath Pierre-Simon Laplace further developed the Bayesian approach but these ideas were later challenged and largely forgotten until their rediscovered by the British geophysicist and statistician Sir Harold Jeffreys in his 1939 book, Theory of Probability.
@@ -50,7 +50,7 @@ Today, the healthcare perspective on probability is strangely bimodal:
 evidence with very few examples (e.g., N<5) is downplayed as anecdotal evidence having little clinical value (although it is valuable enough for doctors to witness and discuss during their rounds), and
 evidence with many examples (e.g., N>1000) in a randomized controlled trial is considered the gold standard of clinical value (although RCTs are rare because of their long duration and high cost).
 
-In contrast, the proposed patient health dashboards use Bayesian data analysis³ to formalize the presentation of anecdotal evidence and continually improve the confidence in that data analysis as more clinical examples become available. In other words, the proposed Bayesian data analysis continually learns and is expected to help fill a significant void in the current patient decision support.
+In contrast, the proposed patient health dashboards use Bayesian data analysis³ to formalize the presentation of anecdotal evidence and continually improve the confidence in that data analysis as more clinical examples become available. In other words, the proposed Bayesian data analysis continually learns and is expected to help fill a significant void in the current patient decision support.  
  
 # 3. Architecture
 
