@@ -50,7 +50,22 @@ Today, the healthcare perspective on probability is strangely bimodal:
 evidence with very few examples (e.g., N<5) is downplayed as anecdotal evidence having little clinical value (although it is valuable enough for doctors to witness and discuss during their rounds), and
 evidence with many examples (e.g., N>1000) in a randomized controlled trial is considered the gold standard of clinical value (although RCTs are rare because of their long duration and high cost).
 
-In contrast, the proposed patient health dashboards use Bayesian data analysis³ to formalize the presentation of anecdotal evidence and continually improve the confidence in that data analysis as more clinical examples become available. In other words, the proposed Bayesian data analysis continually learns and is expected to help fill a significant void in the current patient decision support.  
+In contrast, the proposed patient health dashboards use Bayesian data analysis³ to formalize the presentation of anecdotal evidence and continually improve the confidence in that data analysis as more clinical examples become available. In other words, the proposed Bayesian data analysis continually learns and is expected to help fill a significant void in the current patient decision support. 
+
+## 2.3 The Julia programming language
+Started in 2009 and first publicly released in 2012, Julia is a free high-level programming language that is fast and particularly well suited for data analysis. Makie (pronounced mah-key) is a modern plotting library for Julia.
+
+## 2.4 Spreadsheet applications
+Introduced in 1969, the spreadsheet is a computer application that helps analyze data in tabular form. Spreadsheets gained widespread adoption with Microsoft Excel introduced in 1985.
+
+## 2.5 Smartphones
+The currently popular form of the smartphone with a large touchscreen display was introduced in 2007. Today's smartphones are powerful mobile computing devices with built-in cameras, built-in GPS navigation, and a growing list of artificial intelligence capabilities.
+
+## 2.6 Artificial intelligence
+The phrase "artificial intelligence" was coined in 1955 by John McCarthy who defined intelligence as "the computational part of the ability to achieve goals in the world." However, the field did not start its rapid growth until 2011, when GPUs were first programmed to accelerate the training of neural networks.
+
+Today, the capabilities of the neural-network-trained Large Language Models (LLMs) might be best described as uneven across tasks. For example, Google's Gemini deep research model is the best proofreader of essays (e.g., this one) I've ever worked with, human or not. Yet, that same LLM is not currently capable of transforming an English description of a desired plot into Makie code to plot it. Empowering healthcare professionals to write "prompt to plot" specifications to get helpful views of patient data is so important to the proposed patient health dashboards that a significant portion of a grant-funded budget should go to supporting professional Makie developers working on that capability.
+
  
 # 3. Architecture
 
