@@ -61,7 +61,7 @@ Introduced in 1969, the spreadsheet is a computer application that helps analyze
 ## 2.5 Smartphones
 The currently popular form of the smartphone with a large touchscreen display was introduced in 2007. Today's smartphones are powerful mobile computing devices with built-in cameras, built-in GPS navigation, and a growing list of artificial intelligence capabilities.
 
-## 2.6 "Private Space" for encrypted data on smartphone
+## 2.6 "Private Space" encrypted data on smartphone
 
 
 ## 2.7 Artificial intelligence
