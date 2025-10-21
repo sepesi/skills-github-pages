@@ -61,23 +61,29 @@ Introduced in 1969, the spreadsheet is a computer application that helps analyze
 ## 2.5 Smartphones
 The currently popular form of the smartphone with a large touchscreen display was introduced in 2007. Today's smartphones are powerful mobile computing devices with built-in cameras, built-in GPS navigation, and a growing list of artificial intelligence capabilities.
 
-## 2.6 Artificial intelligence
+## 2.6 "Private Space" for Android smartphone encrypted data
+
+
+## 2.7 Artificial intelligence
 The phrase "artificial intelligence" was coined in 1955 by John McCarthy who defined intelligence as "the computational part of the ability to achieve goals in the world." However, the field did not start its rapid growth until 2011, when GPUs were first programmed to accelerate the training of neural networks.
 
 Today, the capabilities of the neural-network-trained Large Language Models (LLMs) might be best described as uneven across tasks. For example, Google's Gemini deep research model is the best proofreader of essays (e.g., this one) I've ever worked with, human or not. Yet, that same LLM is not currently capable of transforming an English description of a desired plot into Makie code to plot it. Empowering healthcare professionals to write "prompt to plot" specifications to get helpful views of patient data is so important to the proposed patient health dashboards that a significant portion of a grant-funded budget should go to supporting professional Makie developers working on that capability.
 
- 
-# 3. Architecture
+## 2.8 DeepMind's co-scientist
+
+# 3. Previously misdirected work
+
+# 4. Architecture
 
 
-# 4. Test case
+# 5. Test case
 
 
-# 5. Other candidate test cases
+# 6. Other candidate test cases
 
-# 6. Possible objections
+# 7. Possible objections
 
-# 7. Conclusion
+# 8. Conclusion
 
 [Paul Buchheit](https://en.wikipedia.org/wiki/Paul_Buchheit) was an early engineer (i.e., employee #23) at [Google](https://en.wikipedia.org/wiki/Google) before leaving in 2006 to co-found FriendFeed with [Bret Taylor](https://en.wikipedia.org/wiki/Bret_Taylor), now the chairman of [OpenAI](https://en.wikipedia.org/wiki/OpenAI). In 2009, [Facebook](https://en.wikipedia.org/wiki/Facebook) acquired FriendFeed but Buchheit left Facebook in 2010 to become a partner at [Y Combinator](https://en.wikipedia.org/wiki/Y_Combinator). Buchheit is a thought-leader concerning technology's impact on society. For example, in this [YouTube interview](https://youtu.be/LSUviaN1eso?t=874) at Y Combinator, Buchheit talks about two possible outcomes of AI:
 > When we think about what is
