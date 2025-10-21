@@ -72,6 +72,7 @@ Today, the capabilities of the neural-network-trained Large Language Models (LLM
 ## 2.8 DeepMind's co-scientist
 
 # 3. Previously misdirected work
+The short-lived project before this Improvving Scientific Integrity proposal was the patient health dashboard proposal, which was misdirected work because I was mistakenly focused on tooling for a collection of vague ideas about probblems, not the solution of a single clearly-defined problem (i.e., stabilizing hemoglobin levels in kidney disease patients).
 
 # 4. Architecture
 
