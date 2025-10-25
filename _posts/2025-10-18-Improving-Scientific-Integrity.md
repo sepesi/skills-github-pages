@@ -26,7 +26,13 @@ direction or another. [...]
 integrity--is, I'm sorry to say, something that we haven't specifically included in any
 particular course that I know of. We just hope you've caught on by osmosis.
 
-Going beyond the hope of learning scientific integrity through osmosis, this essay proposes that Google's new [co-scientist](https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist) AI agent is a practical approach to the widespread development of scientific integrity, as Feynan had hoped.  
+Going beyond the hope of learning scientific integrity through osmosis, this essay proposes that DeepMind's new [co-scientist](https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist) AI agent would teach scientific integrity, as Feynan had hoped. Scientific integrety is the cornerstone of the scientific method, one of humanity's most immpactful concepts, along with agriculture, writing, and the harnessing of electricity. The scientific method is the most effective process for humanity to correct its own errors, biases, and misconceptions. The job titles that currently employ the scientific method the most are
+* medical scientist/research scientist,
+* epidemiologist (i.e., disease detective),
+* clinical research scientist,
+* data scientists, and
+* experimental psychologist.
+However, this essay proposes a much wider use of the scientifc method by bringing DeepMind's co-scientist AI agent to a select group of nurses and technicians in kidney dialysis clinics.
 
 # 2. Previous work
 This Imprving Scientific Integrity proposal builds directly upon the following concepts and technologies.
