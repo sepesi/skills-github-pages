@@ -33,7 +33,7 @@ Going beyond the hope of learning scientific integrity through osmosis, this ess
 * data scientists, and
 * experimental psychologist.
 
-However, this essay proposes a much wider use of the scientifc method by bringing DeepMind's co-scientist AI agent to a select group of nurses and technicians within kidney dialysis clinics.
+However, this essay proposes expanding the use of the scientifc method by bringing DeepMind's co-scientist AI agent to nurses and technicians within kidney dialysis clinics.
 
 # 2. Previous work
 This Imprving Scientific Integrity proposal builds directly upon the following concepts and technologies.
