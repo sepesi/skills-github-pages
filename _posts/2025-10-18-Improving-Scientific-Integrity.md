@@ -32,6 +32,7 @@ Going beyond the hope of learning scientific integrity through osmosis, this ess
 * clinical research scientist,
 * data scientists, and
 * experimental psychologist.
+
 However, this essay proposes a much wider use of the scientifc method by bringing DeepMind's co-scientist AI agent to a select group of nurses and technicians in kidney dialysis clinics.
 
 # 2. Previous work
