@@ -39,7 +39,7 @@ However, this essay proposes expanding the use of the scientifc method by bringi
 This Imprving Scientific Integrity proposal builds directly upon the following concepts and technologies.
 
 ## 2.1 The scientific method
-The [scientific method](https://en.wikipedia.org/wiki/Scientific_method) is a set of core principles and values that guide inquiry.  It was slowly refined over millennia through the contributions of multiple civilizations:
+The [scientific method](https://en.wikipedia.org/wiki/Scientific_method) is a set of core principles and values that guide inquiry.  It was slowly refined over millennia through contributions from multiple civilizations:
 
 * A foundation based upon logic and [empiricism](https://en.wikipedia.org/wiki/Empiricism) first appeared in Ancient Greece.
 * Systematic experimentation to test a [hypothesis](https://en.wikipedia.org/wiki/Hypothesis) was added by medieval Islamic scholars such as [Ibn al-Haytham](https://en.wikipedia.org/wiki/Ibn_al-Haytham) (Alhazen) in the 11th century. Other scholars of the era, like [Al-Biruni](https://en.wikipedia.org/wiki/Al-Biruni), recognized the need for replication.
