@@ -94,19 +94,15 @@ The short-lived project before this Improvving Scientific Integrity proposal was
 
 # 4. Initial test case
 
-
 # 5. Architecture
 
+# 6. Alternatives
 
-# 6. Other candidate test cases
+# 7. Possible objections
 
-# 7. Alternatives
+# 8. Results
 
-# 8. Possible objections
-
-# 9. Results
-
-# 10. Conclusion
+# 9. Conclusion
 
 [Paul Buchheit](https://en.wikipedia.org/wiki/Paul_Buchheit) was an early engineer (i.e., employee #23) at [Google](https://en.wikipedia.org/wiki/Google) before leaving in 2006 to co-found FriendFeed with [Bret Taylor](https://en.wikipedia.org/wiki/Bret_Taylor), now the chairman of [OpenAI](https://en.wikipedia.org/wiki/OpenAI). In 2009, [Facebook](https://en.wikipedia.org/wiki/Facebook) acquired FriendFeed but Buchheit left Facebook in 2010 to become a partner at [Y Combinator](https://en.wikipedia.org/wiki/Y_Combinator). Buchheit is a thought-leader concerning technology's impact on society. For example, in this [YouTube interview](https://youtu.be/LSUviaN1eso?t=874) at Y Combinator, Buchheit talks about two possible outcomes of AI:
 > When we think about what is
