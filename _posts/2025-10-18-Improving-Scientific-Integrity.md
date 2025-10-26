@@ -38,7 +38,13 @@ However, this essay proposes expanding the use of the scientifc method by bringi
 # 2. Previous work
 This Imprving Scientific Integrity proposal builds directly upon the following concepts and technologies.
 
-## 2.1 Edward Tufte's small multiple plot design
+## 2.1 The scientific method
+
+## 2.2 Bundled payments for erythropoietin
+
+## 2.3 Hemoglobin level guidelines for chronic kidney disease patients
+
+## 2.4 Edward Tufte's small multiple plot design
 A typical health record plot shows a time series of measurements. If there are many time series, they can be difficult to compare. For example, the popular MyChart by Epic Systems Corporation shows approximately one time series per web browser page with excessive white space between plots. Therefore, comparing two or more time series in MyChart needlessly wastes the reader's working memory.
 
 ![image](https://cdn-images-1.medium.com/max/1000/1*AEnXFI8X55eReQWFTnDDKQ.png "MyChart plot")
@@ -50,7 +56,7 @@ In contrast to the style of MyChart plots, Edward Tufte's small multiple plots i
 ![image](https://cdn-images-1.medium.com/max/1000/1*7ItYKCmFh9XYWzuCC86Y8g.png "small_multiple")
 Figure 2-2 Small multiple plots in a dashboard about kidney function (plotted by Julia and Makie). The proposed dashboards are organized by organ (e.g., kidney, heart, liver) instead of by blood test (e.g., Complete Blood Count). Each dashboard contains up to 16 time series small multiple plots (i.e., up to eight calendar time plots alongside their corresponding clock time plots).  
 
-## 2.2 Bayesian data analysis
+## 2.5 Bayesian data analysis
 The Reverend Thomas Bayes first described his innovative approach to calculating probabilities in 1763. In 1812, the French polymath Pierre-Simon Laplace further developed the Bayesian approach but these ideas were later challenged and largely forgotten until their rediscovered by the British geophysicist and statistician Sir Harold Jeffreys in his 1939 book, Theory of Probability.
 
 Today, the healthcare perspective on probability is strangely bimodal:
@@ -59,24 +65,24 @@ evidence with many examples (e.g., N>1000) in a randomized controlled trial is c
 
 In contrast, the proposed patient health dashboards use Bayesian data analysis³ to formalize the presentation of anecdotal evidence and continually improve the confidence in that data analysis as more clinical examples become available. In other words, the proposed Bayesian data analysis continually learns and is expected to help fill a significant void in the current patient decision support. 
 
-## 2.3 The Julia programming language
+## 2.6 The Julia programming language
 Started in 2009 and first publicly released in 2012, Julia is a free high-level programming language that is fast and particularly well suited for data analysis. Makie (pronounced mah-key) is a modern plotting library for Julia.
 
-## 2.4 Spreadsheet applications
+## 2.7 Spreadsheet applications
 Introduced in 1969, the spreadsheet is a computer application that helps analyze data in tabular form. Spreadsheets gained widespread adoption with Microsoft Excel introduced in 1985.
 
-## 2.5 Smartphones
+## 2.8 Smartphones
 The currently popular form of the smartphone with a large touchscreen display was introduced in 2007. Today's smartphones are powerful mobile computing devices with built-in cameras, built-in GPS navigation, and a growing list of artificial intelligence capabilities.
 
-## 2.6 "Private Space" encrypted data on smartphone
+## 2.9 "Private Space" encrypted data on smartphone
 
 
-## 2.7 Artificial intelligence
+## 2.10 Artificial intelligence
 The phrase "artificial intelligence" was coined in 1955 by John McCarthy who defined intelligence as "the computational part of the ability to achieve goals in the world." However, the field did not start its rapid growth until 2011, when GPUs were first programmed to accelerate the training of neural networks.
 
 Today, the capabilities of the neural-network-trained Large Language Models (LLMs) might be best described as uneven across tasks. For example, Google's Gemini deep research model is the best proofreader of essays (e.g., this one) I've ever worked with, human or not. Yet, that same LLM is not currently capable of transforming an English description of a desired plot into Makie code to plot it. Empowering healthcare professionals to write "prompt to plot" specifications to get helpful views of patient data is so important to the proposed patient health dashboards that a significant portion of a grant-funded budget should go to supporting professional Makie developers working on that capability.
 
-## 2.8 DeepMind's co-scientist
+## 2.11 DeepMind's co-scientist
 
 # 3. Previous misdirected work
 The short-lived project before this Improvving Scientific Integrity proposal was the patient health dashboard proposal, which was misdirected work because I was mistakenly focused on tooling (the visualization of the health status of a wide variety of patients) instead of being focused on the solution of a specific hair-on-fire problem (i.e., stabilizing the hemoglobin levels of kidney disease patients).
