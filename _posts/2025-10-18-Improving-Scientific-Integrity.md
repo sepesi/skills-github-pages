@@ -39,11 +39,11 @@ However, this essay proposes expanding the use of the scientifc method by bringi
 This Imprving Scientific Integrity proposal builds directly upon the following concepts and technologies.
 
 ## 2.1 The scientific method
-The scientific method is a set of core principles and values that guide inquiry.  It was slowly refined over millennia through the contributions of multiple civilizations:
+The [scientific method](https://en.wikipedia.org/wiki/Scientific_method) is a set of core principles and values that guide inquiry.  It was slowly refined over millennia through the contributions of multiple civilizations:
 
-* A foundation based upon logic and empiricism first appeared in Ancient Greece.
-* Systematic experimentation to test a hypothesis was added by medieval Islamic scholars such as Ibn al-Haytham (Alhazen) in the 11th century. Other scholars of the era, like Al-Biruni, recognized the need for replication.
-* The method was formalized and institutionalized in 17th-century Europe. Francis Bacon argued for inductive reasoning and systematic experimentation instead of assuming ancient authorities were correct. Contemporaries like Galileo Galilei, Johannes Kepler, and Isaac Newton masterfully combined mathematical theory with precise empirical observation and experimentation, demonstrating the method's immense power.
+* A foundation based upon logic and [empiricism](https://en.wikipedia.org/wiki/Empiricism) first appeared in Ancient Greece.
+* Systematic experimentation to test a [hypothesis](https://en.wikipedia.org/wiki/Hypothesis) was added by medieval Islamic scholars such as [Ibn al-Haytham](https://en.wikipedia.org/wiki/Ibn_al-Haytham) (Alhazen) in the 11th century. Other scholars of the era, like [Al-Biruni](https://en.wikipedia.org/wiki/Al-Biruni), recognized the need for replication.
+* The method was formalized in 17th-century Europe. [Francis Bacon](https://en.wikipedia.org/wiki/Francis_Bacon) argued for [inductive reasoning](https://en.wikipedia.org/wiki/Inductive_reasoning) and systematic experimentation instead of assuming ancient authorities were correct. Contemporaries like [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei), [Johannes Kepler](https://en.wikipedia.org/wiki/Johannes_Kepler), and [Isaac Newton](https://en.wikipedia.org/wiki/Isaac_Newtonv) masterfully combined mathematical theory with empirical observation and experimentation, demonstrating the method's immense power.
 
 ## 2.2 Bundled payments for erythropoietin
 
