@@ -47,7 +47,7 @@ The [scientific method](https://en.wikipedia.org/wiki/Scientific_method) is a se
 
 ## 2.2 Bundled payments for erythropoietin
 
-## 2.3 Hemoglobin level guidelines for chronic kidney disease patients
+## 2.3 Hemoglobin level guidelines
 
 ## 2.4 Edward Tufte's small multiple plot design
 A typical health record plot shows a time series of measurements. If there are many time series, they can be difficult to compare. For example, the popular MyChart by Epic Systems Corporation shows approximately one time series per web browser page with excessive white space between plots. Therefore, comparing two or more time series in MyChart needlessly wastes the reader's working memory.
