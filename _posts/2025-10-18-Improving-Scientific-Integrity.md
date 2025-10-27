@@ -84,6 +84,13 @@ Introduced in 1969, the spreadsheet is a computer application that helps analyze
 The currently popular form of the smartphone with a large touchscreen display was introduced in 2007. Today's smartphones are powerful mobile computing devices with built-in cameras, built-in GPS navigation, and a growing list of artificial intelligence capabilities.
 
 ## 2.9 "Private Space" encrypted data on smartphone
+There are several data privacy requirements for health data:
+1. Health data must be private. Before HIPAA, there were instances of healthcare workers accessing the medical records of celebrities out of curiosity, not for treatment. Also, the emergence of the dark web created a marketplace for stolen health data. For example, patients could be blackmailed to avoid the public release of an HIV-positive diagnosis, which at one time could lead to loss of employment, housing, and personal relationships.
+2. Health data must also be portable. Before HIPAA, "job lock" was a pervasive problem, where employees felt trapped in their current jobs for fear of losing their health insurance.
+3. Health data must also be owned by the patients, not the providers or insurers. Before HIPAA, some providers denied patients access to their own health data, as leverage to collect an outstanding bill.
+4. Health data must also be restricted to the "minimum necessary" standard, to avoid the once common practice of sending a patient's entire medical record when only a single lab result is needed. This "minimum necessary" standard is the response to many documented data privacy breaches. For example, there was a documented case of a banker who also served on the county health board using his position on the health board to gain access to patient records. After identifying several individuals with cancer, he called in their mortgages, adding financial peril to an already troubling health condition. Another example of the need for the "minimum necessary" standard, a 30-year veteran of the FBI was placed on administrative leave after his pharmacy released information about his treatment for depression.
+5. Health data must also have safeguards and accountability. Before HIPAA, a speculator in South Carolina purchased the entire set of patient records from a family practice at an auction for $4,000 and then started selling the records back to the former patients.
+
 
 
 ## 2.10 Artificial intelligence
