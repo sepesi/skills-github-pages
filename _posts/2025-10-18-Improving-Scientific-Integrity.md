@@ -139,13 +139,9 @@ Similar to Palantir's customers, healthcare also has very difficult goals. Perha
 * is deeply embedded to fully understand the healthcare problems, and
 * works directly with the healthcare personnel closest to the problems in order to quickly iterate toward solutions.
 
-According to the following interview with Bob McGrew, a member of an early Palantir engineering team that formed the FDSE concept, the initial team that Palantir assigns to a new customer consists of
-a delta team (focused on writing quick prototypes to iterate on the customer's very specific problem until there is clear evidence that the customer's problem is solved), and
-an echo team (focused on generalizing the quick prototypes so that they are ready to be reused by similar customers).
-
-https://www.youtube.com/watch?v=Zyw-YA0k3xo
-
-Figure 5.1. Discussion of the origins of the Forward Deployed Software Engineer (FDSE) role at Palantir.
+According to this [YouTube interview with Bob McGrew](https://www.youtube.com/watch?v=Zyw-YA0k3xo), a member of an early Palantir engineering team that formed the FDSE concept, the initial team that Palantir assigns to a new customer consists of
+* a delta team (focused on writing quick prototypes to iterate on the customer's very specific problem until there is clear evidence that the customer's problem is solved), and
+* an echo team (focused on generalizing the quick prototypes so that they are ready to be reused by similar customers).
 
 Although I have never used the phrases delta team or echo team in describing my work experience, by coincidence I do have work experience writing quick prototypes (which is one of the reasons I like the Julia programming language) and also work experience successfully generalizing a specific software implementation used by several groups each with their own unique extra requirements.
 
