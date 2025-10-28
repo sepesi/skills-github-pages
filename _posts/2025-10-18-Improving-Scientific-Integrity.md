@@ -119,7 +119,7 @@ Automated evaluations show continued benefits of test-time compute, improving hy
 The project before this Improvving Scientific Integrity proposal was the patient health dashboard proposal. It was misdirected work because I was mistakenly focused on tooling (the visualization of the health status of a wide variety of patients) instead of being focused on the solution of a specific hair-on-fire problem (i.e., stabilizing the hemoglobin levels of kidney disease patients).
 
 # 4. Proof of concept
-The scientific method is a general purpose and skeptical approach to testing a wide variety of hypotheses. Co-scientist is an AI agent that automates parts of hypothesis testing. To dbbbemonstrate the co-scientist proof of concept, Google research developed and tested hypotheses in three biomedical areas:
+The scientific method is a general purpose and skeptical approach to testing a wide variety of hypotheses. Co-scientist is an AI agent that automates parts of hypothesis testing. To demonstrate the co-scientist proof of concept, Google research developed and tested hypotheses in three biomedical areas:
 * drug repurposing,
 * novel target discovery, and
 * explaining mechanisms of anti-microbial resistance.
