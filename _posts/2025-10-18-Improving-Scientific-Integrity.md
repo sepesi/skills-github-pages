@@ -175,7 +175,11 @@ Because Improving Scientific Integrity is a novel approach to testing and improv
 **RESPONSE:** [Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton), often called _"The Godfather of AI"_ for his early role in the development of neural networks, won the 2024 Nobel Prize in Physics for his _"foundational discoveries and inventions that enable machine learning with artificial neural networks"_. In May 2023, Hinton resigned from his job at Google so that he could freely talk about the dangers of AI, including how it will take jobs from people. However, in this [YouTube interview](https://youtu.be/giT0ytynSqg?t=2530), Hinton says that healthcare is an exception, because there is seemingly a limitless demand for more healthcare.
 > "In other jobs, like in health care, they're much more elastic. So, if
 you could make doctors five times as efficient, we could all have five times as much health care for the same price,
-and that would be great. There's almost no limit to how much health care people can absorb. They always want more."
+and that would be great. There's almost no limit to how much health care people can absorb. They always want more healthare if there's no cost to it. There are jobs where you can make a
+person with an AI assistant much more efficient and you won't lead to less people because you'll just have much
+more of that being done."
+
+This Improving Scientific Integrity is limited to the field of healthcare, where there is seemingly a limitless demand. 
 
 ## 6.3 It'll further isolate people
 **OBJECTION:** Doctors are already complaining that interacting with patients has been replaced by interacting with a laptop  because of electronic medical records. Interaction with an AI co-scientist would also replace interactions with people.  
