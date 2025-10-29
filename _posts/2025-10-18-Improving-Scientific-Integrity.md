@@ -167,20 +167,21 @@ The Improving Scientific Integrity proof-of-concept is organized as a niche cons
 Because Improving Scientific Integrity is a novel approach to testing and improving clinical care, the possible negative side effects must be considered and avoided. The following are common objections concerning AI.
 
 ## 6.1 It'll never work
-**OBJECTION:** It'll never work. There is so much AI hype, that claims about AI advancements seem doubtful.  
+**OBJECTION:** There is so much AI hype, claims about AI advancing science seem doubtful.  
 **RESPONSE:** The group that developed co-scientist is the same group that developed [AlphaFold](https://en.wikipedia.org/wiki/AlphaFold), which had such a positive impact on science that the 2024 Nobel Prize in Chemmistry was awarded to Demis Hassabis and John Jumper of Google DeepMind. While that is no guarantee that co-scientist will also have a positive impact on science, the stellar reputation of the group that developed co-scientist is not AI hype.
 
 ## 6.2 It'll steal work from people
-**OBJECTION:** It'll steal work from people, as businesses are looking for any way possible to reduce labor costs.  
+**OBJECTION:** Businesses are always looking for ways to cut labor costs. AI is just the latest approach.  
 **RESPONSE:** 
 
 ## 6.3 It'll further isolate people
-**OBJECTION:** It'll further isolate people. Doctors are already complaining that their interaction with patients has been replaced by interaction with a laptop due to the electronic medical record implementation. The required interaction with an AI co-scientist would also replace interactions with patients with interactions with a laptop.  
+**OBJECTION:** Doctors are already complaining that interacting with patients has been replaced by interacting with a laptop  because of electronic medical records. The required interaction with an AI co-scientist would also replace interactions with other people with interactions with a laptop.  
 **RESPONSE:**
 
 ## 6.4 It's not a viable business
-**OBJECTION:** It's not a viable business because there is no "moat" to disuade competitors.  
+**OBJECTION:** There is no "moat" to disuade competitors. There is no competitive advantage.  
 **RESPONSE:** 
+
 # 7. Results
 
 # 8. Conclusion
