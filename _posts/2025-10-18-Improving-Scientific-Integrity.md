@@ -170,16 +170,19 @@ Because Improving Scientific Integrity is a novel approach to testing and improv
 **OBJECTION:** There is so much AI hype, claims about AI advancing science seem doubtful.  
 **RESPONSE:** The group that developed co-scientist is the same group that developed [AlphaFold](https://en.wikipedia.org/wiki/AlphaFold), which had such a positive impact on science that the 2024 Nobel Prize in Chemistry was awarded to Demis Hassabis and John Jumper of Google DeepMind. While that is no guarantee that co-scientist will also have a positive impact on science, the stellar reputation of the group that developed co-scientist is not AI hype.
 
-## 6.2 It'll steal work from people
+## 6.2 It'll take work from people
 **OBJECTION:** Businesses are always looking for ways to cut labor costs. AI is just the latest approach.  
-**RESPONSE:** 
+**RESPONSE:** [Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton), often called _"The Godfather of AI"_ for his early role in the development of neural networks, won the 2024 Nobel Prize in Physics for his _"foundational discoveries and inventions that enable machine learning with artificial neural networks"_. In May 2023, Hinton resigned from his job at Google so that he could freely talk about the dangers of AI, including how it will take jobs from people. However, in this [YouTube interview](https://youtu.be/giT0ytynSqg?t=2530), Hinton says that healthcare is an exception, because there is seemingly a limitless demand for more healthcare.
+> "In other jobs, like in health care, they're much more elastic. So, if
+you could make doctors five times as efficient, we could all have five times as much health care for the same price,
+and that would be great. There's almost no limit to how much health care people can absorb. They always want more."
 
 ## 6.3 It'll further isolate people
 **OBJECTION:** Doctors are already complaining that interacting with patients has been replaced by interacting with a laptop  because of electronic medical records. Interaction with an AI co-scientist would also replace interactions with people.  
 **RESPONSE:**
 
 ## 6.4 It's not a viable business
-**OBJECTION:** There is no "moat" to disuade competitors. With no competitive advantage, the business will fail.  
+**OBJECTION:** With no competitive advantage, the business will fail.  
 **RESPONSE:** 
 
 # 7. Results
