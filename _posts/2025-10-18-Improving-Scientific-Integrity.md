@@ -163,13 +163,11 @@ The Improving Scientific Integrity proof-of-concept is organized as a niche cons
 3. Has a similar problem been solved in a different discipline?
 4. Is an available person very interested in solving the problem?
 
-# 6. Alternatives
+# 6. Possible objections
 
-# 7. Possible objections
+# 7. Results
 
-# 8. Results
-
-# 9. Conclusion
+# 8. Conclusion
 
 [Paul Buchheit](https://en.wikipedia.org/wiki/Paul_Buchheit) was an early engineer (i.e., employee #23) at [Google](https://en.wikipedia.org/wiki/Google) before leaving in 2006 to co-found FriendFeed with [Bret Taylor](https://en.wikipedia.org/wiki/Bret_Taylor), now the chairman of [OpenAI](https://en.wikipedia.org/wiki/OpenAI). In 2009, [Facebook](https://en.wikipedia.org/wiki/Facebook) acquired FriendFeed but Buchheit left Facebook in 2010 to become a partner at [Y Combinator](https://en.wikipedia.org/wiki/Y_Combinator). Buchheit is a thought-leader concerning technology's impact on society. For example, in this [YouTube interview](https://youtu.be/LSUviaN1eso?t=874) at Y Combinator, Buchheit talks about two possible outcomes of AI:
 > When we think about what is
@@ -189,3 +187,8 @@ In the news, the AI outcome that centralizes power has a lot of momentum. For ex
 And the AI outcome that advances the capabilities of individuals has almost no momentumm. For example, AI is now taking entry level jobs that were a source of training for recent graduates:
 
 # References
+1. Shinners, Stanley M., Modern Control System Theory and Application, 2nd edition, Addison-Wesley, 1978. ISBN: 020107494X.
+2. Tufte, Edward, The Visual Display of Quantitative Information, 2nd edition, Graphics Press, 1997. ISBN: 0961392142.
+3. Sivia, D.S., Data Analysis: A Bayesian Tutorial, 2nd edition, Oxford University Press, 2006. ISBN: 0198568320.
+4. Pearl, Judea, Causality: Models, Reasoning, and Inference, 2nd edition, Cambridge University Press, 2009. ISBN: 052189560X.
+5. Kahneman, Daniel, Thinking, Fast and Slow, 1st paperback edition, Farrar, Straus and Giroux, 2013. ISBN: ‎ 0374533555.
