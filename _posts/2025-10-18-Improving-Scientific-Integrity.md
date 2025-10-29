@@ -182,8 +182,8 @@ more of that being done."
 This Improving Scientific Integrity proposal is limited to the field of healthcare, where there is seemingly a limitless demand. 
 
 ## 6.3 It'll further isolate people
-**OBJECTION:** Doctors are already complaining that interacting with patients has been replaced by interacting with a laptop  because of electronic medical records. Interaction with an AI co-scientist would also replace interactions with people.  
-**RESPONSE:**
+**OBJECTION:** Doctors are already complaining that their interactions with patients is being replaced by interactions with a laptop because of electronic medical records. Interaction with an AI co-scientist would also replace interactions with people.  
+**RESPONSE:** The increase in screen time is problematic in many fields, not just healthcare. Therefore, this Improving Scientific Integrity proposal aims to increase interactions between people while not increasing interactions with screens. For example, the status and planning meetings involving the people stabilizing the hemoglobin levels of kidney dialysis patients will be held at a popular cafe near the dialysis center. The relaxed atmosphere of that cafe is expected to encourage interactions between people. The many hypothesis testing options presented by co-scientist will be reviewed like the many menu options available at the cafe: on paper, not on a screen.
 
 ## 6.4 It's not a viable business
 **OBJECTION:** With no competitive advantage, the business will fail.  
