@@ -179,7 +179,7 @@ and that would be great. There's almost no limit to how much health care people 
 person with an AI assistant much more efficient and you won't lead to less people because you'll just have much
 more of that being done."
 
-This Improving Scientific Integrity is limited to the field of healthcare, where there is seemingly a limitless demand. 
+This Improving Scientific Integrity proposal is limited to the field of healthcare, where there is seemingly a limitless demand. 
 
 ## 6.3 It'll further isolate people
 **OBJECTION:** Doctors are already complaining that interacting with patients has been replaced by interacting with a laptop  because of electronic medical records. Interaction with an AI co-scientist would also replace interactions with people.  
