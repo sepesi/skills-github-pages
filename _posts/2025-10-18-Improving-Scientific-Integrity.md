@@ -185,7 +185,11 @@ This Improving Scientific Integrity proposal is limited to the field of healthca
 **OBJECTION:** Doctors are already complaining that their interactions with patients is being replaced by interactions with a laptop because of electronic medical records. Interaction with an AI co-scientist would also replace interactions with people.  
 **RESPONSE:** The increase in screen time is problematic in many fields, not just healthcare. Therefore, this Improving Scientific Integrity proposal aims to increase interactions between people while not increasing interactions with screens. For example, the status and planning meetings involving the people stabilizing the hemoglobin levels of kidney dialysis patients will be held at a popular cafe near the dialysis center. The relaxed atmosphere of that cafe is expected to encourage interactions between people. The many hypothesis testing options presented by co-scientist will be reviewed like the many menu options available at the cafe: on paper, not on a screen.
 
-## 6.4 It's not a viable business
+## 6.4 It's inviting an AI overlord
+**OBJECTION:** As AI capabilities increase, so does its ability to control people.  
+**RESPONSE:** One of the ways that AI can manipulate people is through [sychophancy](https://en.wikipedia.org/wiki/Sycophancy). The scientific method is our best antidote against sychophancy and [cognitive biases](https://en.wikipedia.org/wiki/Cognitive_bias).
+
+## 6.5 It's not a viable business
 **OBJECTION:** With no competitive advantage, the business will fail.  
 **RESPONSE:** The focus of Improving Scientific Integrity is on solving patient problems (including affordability), not on maximizing profit. Therefore, many people would not consider it to be a business at all. In my opinion, it is more career development or continuing education than it is a business. However, each person using co-scientist must make the business decision of whether the rewards are greater than the investment in time.
 
