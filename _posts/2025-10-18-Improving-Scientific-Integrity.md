@@ -3,7 +3,7 @@ title: "Improving Scientific Integrity"
 date: 2025-10-18
 ---
 # 1. Introduction
-[Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) received the Nobel Prize in Physics in 1965 for his contributions to the development of quantum electrodynamics. In 1974, he gave a Caltech [commencement address](ttps://faculty.sites.iastate.edu/tesfatsi/archive/tesfatsi/CargoCultScience.RichardFeynman1974.pdf) in which he told a story about a society that wanted the benefits of scientific progress, and did what it imagined were the necessary steps to get that progress, but progress never happened because they lacked “scientific integrity.” In his commencent address Feynman explains,
+[Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) received the Nobel Prize in Physics in 1965 for his contributions to the development of quantum electrodynamics. In 1974, he gave a Caltech [commencement address](https://faculty.sites.iastate.edu/tesfatsi/archive/tesfatsi/CargoCultScience.RichardFeynman1974.pdf) in which he told a story about a society that wanted the benefits of scientific progress, and did what it imagined were the necessary steps to get that progress, but progress never happened because they lacked “scientific integrity.” In his commencement address Feynman explains,
   
 > It's a kind of scientific integrity,
 a principle of scientific thought that corresponds to a kind of utter honesty--a kind of
@@ -26,29 +26,29 @@ direction or another. [...]
 integrity--is, I'm sorry to say, something that we haven't specifically included in any
 particular course that I know of. We just hope you've caught on by osmosis.
 
-Going beyond the hope of learning scientific integrity through osmosis, this essay proposes that DeepMind's new [co-scientist](https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist) AI agent can teach scientific integrity, as Feynan had hoped. Scientific integrety is the cornerstone of the scientific method, one of humanity's most impactful concepts, along with agriculture, writing, and the harnessing of electricity. The scientific method is the most effective process for humanity to correct its own errors, biases, and misconceptions. The job titles that currently employ the scientific method the most are
+Going beyond the hope of learning scientific integrity through osmosis, this essay proposes that DeepMind's new [co-scientist](https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist) AI agent can teach scientific integrity, as Feynman had hoped. Scientific integrity is the cornerstone of the scientific method, one of humanity's most impactful concepts, along with agriculture, writing, and the harnessing of electricity. The scientific method is the most effective process for humanity to correct its own errors, biases, and misconceptions. The job titles that currently employ the scientific method the most are
 * medical scientist/research scientist,
 * epidemiologist (i.e., disease detective),
 * clinical research scientist,
 * data scientists, and
 * experimental psychologist.
 
-However, this essay proposes expanding the use of the scientifc method by bringing DeepMind's co-scientist AI agent to nurses and technicians within kidney dialysis clinics.
+However, this essay proposes expanding the use of the scientific method by bringing DeepMind's co-scientist AI agent to nurses and technicians within kidney dialysis clinics.
 
 # 2. Previous work
-This Imprving Scientific Integrity proposal builds directly upon the following concepts and technologies.
+This Improving Scientific Integrity proposal builds directly upon the following concepts and technologies.
 
 ## 2.1 The scientific method
 The [scientific method](https://en.wikipedia.org/wiki/Scientific_method) is a set of core principles and values that guide inquiry.  It was slowly refined over millennia through contributions from multiple civilizations:
 
 * A foundation based upon logic and [empiricism](https://en.wikipedia.org/wiki/Empiricism) first appeared in Ancient Greece.
 * Systematic experimentation to test a [hypothesis](https://en.wikipedia.org/wiki/Hypothesis) was added by medieval Islamic scholars such as [Ibn al-Haytham](https://en.wikipedia.org/wiki/Ibn_al-Haytham) (Alhazen) in the 11th century. Other scholars of the era, like [Al-Biruni](https://en.wikipedia.org/wiki/Al-Biruni), recognized the need for replication.
-* The method was formalized in 17th-century Europe. [Francis Bacon](https://en.wikipedia.org/wiki/Francis_Bacon) argued for [inductive reasoning](https://en.wikipedia.org/wiki/Inductive_reasoning) and systematic experimentation instead of assuming ancient authorities were correct. Contemporaries like [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei), [Johannes Kepler](https://en.wikipedia.org/wiki/Johannes_Kepler), and [Isaac Newton](https://en.wikipedia.org/wiki/Isaac_Newtonv) masterfully combined mathematical theory with empirical observation and experimentation, demonstrating the method's extraordinary potential.
+* The method was formalized in 17th-century Europe. [Francis Bacon](https://en.wikipedia.org/wiki/Francis_Bacon) argued for [inductive reasoning](https://en.wikipedia.org/wiki/Inductive_reasoning) and systematic experimentation instead of assuming ancient authorities were correct. Contemporaries like [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei), [Johannes Kepler](https://en.wikipedia.org/wiki/Johannes_Kepler), and [Isaac Newton](https://en.wikipedia.org/wiki/Isaac_Newton) masterfully combined mathematical theory with empirical observation and experimentation, demonstrating the method's extraordinary potential.
 
 ## 2.2 Bundled payments for erythropoietin
 Patients with failed kidneys often do not make enough [erythropoietin](https://en.wikipedia.org/wiki/Erythropoietin) and therefore develop [anemia](https://en.wikipedia.org/wiki/Anemia). That condition is so common among kidney dialysis patients that, prior to 2011 when the reimbursement for the expensive erythropoiesis-stimulating agents (ESAs) were reimbursed as a fee-for-service, almost two thirds of the total income of dialysis clinics in the United States came from the administration of ESAs, such as epoetin alfa (EPO) and darbepoetin alfa (Aranesp). However, in January of 2011, the Centers for Medicare & Medicaid Services (CMS) implemented a "bundled" payment system that consolidated payment for a wide range of services and drugs, including ESAs and intravenous (IV) iron, into a single fixed payment per dialysis treatment.
 
-As intended, the CMS policy change quickly reduced the overuse of ESAs by replacing the financial incentive for administering more ESAs with one for administering fewer. However, with the new policy, there was no new guidance on how to administer ESAs so that the patient's hemoglobin did not oscillate between dangerously low and dangerously high levels. That condition, called hemoglobin cycling, is surprisingly common. For example, among the 281 patients [studied](https://pubmed.ncbi.nlm.nih.gov/16105069/https://pubmed.ncbi.nlm.nih.gov/16105069/) at the Winthrop-University Hospital Dialysis Centers, more than 90% experienced dangerously oscillating hemoglobin.
+As intended, the CMS policy change quickly reduced the overuse of ESAs by replacing the financial incentive for administering more ESAs with one for administering fewer. However, with the new policy, there was no new guidance on how to administer ESAs so that the patient's hemoglobin did not oscillate between dangerously low and dangerously high levels. That condition, called hemoglobin cycling, is surprisingly common. For example, among the 281 patients [studied](https://pubmed.ncbi.nlm.nih.gov/16105069/) at the Winthrop-University Hospital Dialysis Centers, more than 90% experienced dangerously oscillating hemoglobin.
 
 ## 2.3 Hemoglobin level guidelines
 The proper level of hemoglobin has been an evolving target in the treatment of kidney patients. Prior to the CMS policy of bundled payments in 2011, the target was often a normalized hemoglobin level (i.e., the same hemoglobin level as a person with healthy kidneys, which is greater than 13 g/dL). However, in the early 2000s, trials such as the [Normal Hematocrit Trial](https://www.nejm.org/doi/full/10.1056/NEJM199808273390903) (NHT), the [Correction of Hemoglobin and Outcomes in Renal Insufficiency](https://clinicaltrials.gov/study/NCT00211120) (CHOIR) study, and the [Trial to Reduce Cardiovascular Events with Aranesp Therapy](https://pubmed.ncbi.nlm.nih.gov/15864229/) (TREAT) demonstrated administering ESAs to target near-normal hemoglobin levels was associated with an increased risk of serious adverse events, including a risk of stroke, hypertension, and vascular access thrombosis. Today, according to the [Kidney Disease Improving Global Outcomes (KDIGO) guidelines](https://kdigo.org/guidelines/) (which can be slightly adjusted to accommodate treatment modalities and individual patient requirements), ESA treatment should be started when hemoglobin is below 10.0 g/dL, and should not exceed 11.5 g/dL while maintaining a TSAT>20% and Ferritin>100 ng/mL. (Note: TSAT is Transferrin Saturation.)
@@ -115,8 +115,8 @@ Key contributions include: (1) a multi-agent architecture with an asynchronous t
 for flexible compute scaling; (2) a tournament evolution process for self-improving hypotheses generation.
 Automated evaluations show continued benefits of test-time compute, improving hypothesis quality.
 
-# 3. Previous misdirected worki.
-The project before this Improvving Scientific Integrity proposal was the patient health dashboard proposal. It was misdirected work because I was mistakenly focused on tooling (i.e., the visualization of the health status of a wide variety of patients) instead of being focused on a specific problem (i.e., stabilizing the hemoglobin levels of kidney disease patients).
+# 3. Previous misdirected work
+The project before this Improving Scientific Integrity proposal was the patient health dashboard proposal. It was misdirected work because I was mistakenly focused on tooling (i.e., the visualization of the health status of a wide variety of patients) instead of being focused on a specific problem (i.e., stabilizing the hemoglobin levels of kidney disease patients).
 
 # 4. Proof of concept
 The scientific method is a general purpose and skeptical approach to testing a wide variety of hypotheses. Co-scientist is an AI agent that automates parts of hypothesis testing. To demonstrate the co-scientist proof of concept, Google research developed and tested hypotheses in three biomedical areas:
@@ -146,7 +146,7 @@ According to this [YouTube interview with Bob McGrew](https://www.youtube.com/wa
 Although I have never used the phrases delta team or echo team in describing my work experience, by coincidence I do have work experience writing quick prototypes (which is one of the reasons I like the Julia programming language) and also work experience successfully generalizing a specific software implementation used by several groups each with their own unique extra requirements.
 
 ## 5.2 File structure
-The data for Improving Scientifc Integrity will be stored in tab-separated ASCII text values, where each logged measurement has its own row in the text file. This simple file format makes importing the data into spreadsheet applications (for custom experimental analysis) simple (i.e., copy and paste).
+The data for Improving Scientific Integrity will be stored in tab-separated ASCII text values, where each logged measurement has its own row in the text file. This simple file format makes importing the data into spreadsheet applications (for custom experimental analysis) simple (i.e., copy and paste).
 
 To make the text file more compact, it will use numerical indices to reference look up tables of user choices (e.g., food, medication, medical device selections) instead of storing the possibly lengthy descriptions of those choices.
 
@@ -187,7 +187,7 @@ This Improving Scientific Integrity proposal is limited to the field of healthca
 
 ## 6.4 It's inviting an AI overlord
 **OBJECTION:** As AI capabilities increase, so does its ability to control people.  
-**RESPONSE:** One of the ways that AI can manipulate people is through [sychophancy](https://en.wikipedia.org/wiki/Sycophancy). The scientific method is our best antidote against sychophancy and [cognitive biases](https://en.wikipedia.org/wiki/Cognitive_bias).
+**RESPONSE:** One of the ways that AI can manipulate people is through [sycophancy](https://en.wikipedia.org/wiki/Sycophancy). The scientific method is our best antidote against sycophancy and [cognitive biases](https://en.wikipedia.org/wiki/Cognitive_bias).
 
 ## 6.5 It's not a viable business
 **OBJECTION:** With no competitive advantage, the business will fail.  
