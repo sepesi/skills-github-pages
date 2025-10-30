@@ -26,7 +26,7 @@ direction or another. [...]
 integrity--is, I'm sorry to say, something that we haven't specifically included in any
 particular course that I know of. We just hope you've caught on by osmosis.
 
-Going beyond the hope of learning scientific integrity through osmosis, this essay proposes that DeepMind's new [co-scientist](https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist) AI agent can teach scientific integrity, as Feynan had hoped. Scientific integrety is the cornerstone of the scientific method, one of humanity's most immpactful concepts, along with agriculture, writing, and the harnessing of electricity. The scientific method is the most effective process for humanity to correct its own errors, biases, and misconceptions. The job titles that currently employ the scientific method the most are
+Going beyond the hope of learning scientific integrity through osmosis, this essay proposes that DeepMind's new [co-scientist](https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist) AI agent can teach scientific integrity, as Feynan had hoped. Scientific integrety is the cornerstone of the scientific method, one of humanity's most impactful concepts, along with agriculture, writing, and the harnessing of electricity. The scientific method is the most effective process for humanity to correct its own errors, biases, and misconceptions. The job titles that currently employ the scientific method the most are
 * medical scientist/research scientist,
 * epidemiologist (i.e., disease detective),
 * clinical research scientist,
@@ -222,16 +222,16 @@ species because you essentially minimize the agency and power of the individual,
 direction is towards freedom and, as much as possible, we should give this
 power and these capabilities to every individual to be the best version of themselves.
 
-In the news, the AI outcome that centralizes power has a lot of momentum. For example, most of the new compute capabilities are owned by a small number of big tech companies:
+In the news, the AI outcome that centralizes power currently has a lot of momentum. For example, most of the new compute capabilities are owned by a small number of big tech companies:
 - _Groups including BlackRock, Microsoft, Nvidia, and xAI join forces to acquire Aligned Data Centers — $40B deal delivers 5GW of operational and planned data center capacity_, [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/groups-including-blackrock-microsoft-nvidia-and-xai-join-forces-to-acquire-aligned-data-centers-usd40b-deal-delivers-5gw-of-operational-and-planned-data-center-capacity), 2025-10-14.
 - _Pennsylvania’s $70 Billion Race for America’s Data Centers_, [Data Center Knowledge](https://www.datacenterknowledge.com/energy-power-supply/pennsylvania-s-70-billion-race-for-america-s-data-centers), 2025-10-16.
 - _BlackRock’s $40 billion deal highlights the unstoppable AI data center gold rush, as CEO Larry Fink pushes back on AI bubble fears_, [Fortune](https://fortune.com/2025/10/15/blackrocks-40-billion-deal-highlights-the-unstoppable-ai-data-center-gold-rush-as-ceo-larry-fink-pushes-back-on-ai-bubble-fears/), 2025-10-15.
 
-And the AI outcome that advances the capabilities of individuals has almost no momentumm. For example, AI is now taking entry level jobs that were a source of training for recent graduates:
+Although this Improving Scientific Integrity proposal is focused on just kidney dialysis patients with unstable hemoglobin levels, there appears to be thousands of similar healthcare problems needing the scientific method. The underlying premise of this essay is that there are thousands of nurses and technicians capable of employing the scientific method when assisted by co-scientist. If thousands of people were to start improving the science of healthcare, that would be more than momentum. It would be a movement.
 
 # References
-1. Shinners, Stanley M., Modern Control System Theory and Application, 2nd edition, Addison-Wesley, 1978. ISBN: 020107494X.
-2. Tufte, Edward, The Visual Display of Quantitative Information, 2nd edition, Graphics Press, 1997. ISBN: 0961392142.
-3. Sivia, D.S., Data Analysis: A Bayesian Tutorial, 2nd edition, Oxford University Press, 2006. ISBN: 0198568320.
-4. Pearl, Judea, Causality: Models, Reasoning, and Inference, 2nd edition, Cambridge University Press, 2009. ISBN: 052189560X.
-5. Kahneman, Daniel, Thinking, Fast and Slow, 1st paperback edition, Farrar, Straus and Giroux, 2013. ISBN: ‎ 0374533555.
+1. Shinners, Stanley M., [_Modern Control System Theory and Application_](https://www.amazon.com/Control-Application-Addison-Wesley-Electrical-Engineering/dp/020107494X), 2nd edition, Addison-Wesley, 1978. ISBN: 020107494X.
+2. Tufte, Edward, [_The Visual Display of Quantitative Information_](https://www.amazon.com/Visual-Display-Quantitative-Information/dp/0961392142), 2nd edition, Graphics Press, 1997. ISBN: 0961392142.
+3. Sivia, D.S., [_Data Analysis: A Bayesian Tutorial_](https://www.amazon.com/Data-Analysis-Bayesian-Devinderjit-Sivia/dp/0198568320), 2nd edition, Oxford University Press, 2006. ISBN: 0198568320.
+4. Pearl, Judea, [_Causality: Models, Reasoning, and Inference_](https://www.amazon.com/Causality-Reasoning-Inference-Judea-Pearl/dp/052189560X), 2nd edition, Cambridge University Press, 2009. ISBN: 052189560X.
+5. Kahneman, Daniel, [_Thinking, Fast and Slow+](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555), 1st paperback edition, Farrar, Straus and Giroux, 2013. ISBN: ‎ 0374533555.
