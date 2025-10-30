@@ -189,7 +189,7 @@ This Improving Scientific Integrity proposal is limited to the field of healthca
 **OBJECTION:** With no competitive advantage, the business will fail.  
 **RESPONSE:** The focus of Improving Scientific Integrity is on solving patient problems (including affordability), not on maximizing profit. Therefore, many people would not consider it to be a business at all. In my opinion, it is more career development or continuing education than it is a business. However, each person using co-scientist must make the business decision of whether the rewards are greater than the investment in time.
 
-According to Hamilton Helmer's book, _[7 Powers](https://7powers.com/): The Foundations of Business Strategy_ which describes the seven types of competitive advantages that create a durable moat for a business:
+Hamilton Helmer's book, _[7 Powers](https://7powers.com/): The Foundations of Business Strategy_, describes the seven types of competitive advantages that create a durable moat for a business:
 1. **Scale Economies**: The cost per unit of a product or service decreases as the volume of production increases.
 2. **Network Economies**: The value of a product or service increases as more users join the network.
 3. **Switching Costs**: It is costly or painful for a customer to switch to a competitor's product or service.
@@ -198,7 +198,7 @@ According to Hamilton Helmer's book, _[7 Powers](https://7powers.com/): The Foun
 6. **Branding**: An objectively similar product gains higher perceived value in the customer's mind due to the brand's identity.
 7. **Process Power**: The company's internal processes and culture allow for lower costs or higher quality that are difficult for competitors to replicate.
 
-This Improving Scientific Integrity proposal could be argued to have only two of the seven powers:
+This Improving Scientific Integrity proposal has only two of the seven powers:
 * Counter-Positioning, and
 * Process Power
 neither of which are of much interest to established healthcare businesses.
