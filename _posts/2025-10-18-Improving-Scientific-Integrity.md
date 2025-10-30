@@ -172,10 +172,10 @@ Because Improving Scientific Integrity is a novel approach to testing and improv
 
 ## 6.2 It'll take work from people
 **OBJECTION:** Businesses are always looking for ways to cut labor costs. AI is just the latest approach.  
-**RESPONSE:** [Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton), often called _"The Godfather of AI"_ for his early role in the development of neural networks, won the 2024 Nobel Prize in Physics for his _"foundational discoveries and inventions that enable machine learning with artificial neural networks"_. In May 2023, Hinton resigned from his job at Google so that he could freely talk about the dangers of AI, including how it will take jobs from people. However, in this [YouTube interview](https://youtu.be/giT0ytynSqg?t=2530), Hinton says that healthcare is an exception, because there is seemingly a limitless demand for more healthcare.
-> "In other jobs, like in health care, they're much more elastic. So, if
-you could make doctors five times as efficient, we could all have five times as much health care for the same price,
-and that would be great. There's almost no limit to how much health care people can absorb. They always want more healthare if there's no cost to it. There are jobs where you can make a
+**RESPONSE:** [Geoffrey Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton), often called _"The Godfather of AI"_ for his early role in the development of neural networks, won the 2024 Nobel Prize in Physics for his _"foundational discoveries and inventions that enable machine learning with artificial neural networks"_. In May 2023, Hinton resigned from his job at Google so that he could freely talk about the dangers of AI, including how it will take jobs from people. However, in this [YouTube interview](https://youtu.be/giT0ytynSqg?t=2530), Hinton says that healthcare is an exception because there is seemingly a limitless demand for more healthcare.
+> "In other jobs, like in healthcare, they're much more elastic. So, if
+you could make doctors five times as efficient, we could all have five times as much healthcare for the same price,
+and that would be great. There's almost no limit to how much healthcare people can absorb. They always want more healthcare if there's no cost to it. There are jobs where you can make a
 person with an AI assistant much more efficient and you won't lead to less people because you'll just have much
 more of that being done."
 
@@ -187,9 +187,24 @@ This Improving Scientific Integrity proposal is limited to the field of healthca
 
 ## 6.4 It's not a viable business
 **OBJECTION:** With no competitive advantage, the business will fail.  
-**RESPONSE:** 
+**RESPONSE:** The focus of Improving Scientific Integrity is on solving patient problems (including affordability), not on maximizing profit. Therefore, many people would not consider it to be a business at all. In my opinion, it is more career development or continuing education than it is a business. However, each person using co-scientist must make the business decision of whether the rewards are greater than the investment in time.
+
+According to Hamilton Helmer's book, _[7 Powers](https://7powers.com/): The Foundations of Business Strategy_ which describes the seven types of competitive advantages that create a durable moat for a business:
+1. **Scale Economies**: The cost per unit of a product or service decreases as the volume of production increases.
+2. **Network Economies**: The value of a product or service increases as more users join the network.
+3. **Switching Costs**: It is costly or painful for a customer to switch to a competitor's product or service.
+4. **Counter-Positioning**: A new company uses a business model or value proposition that incumbents cannot easily copy without damaging their existing business.
+5. **Cornered Resource**: A company has unique access to a valuable asset, such as a patent, property, or key talent.
+6. **Branding**: An objectively similar product gains higher perceived value in the customer's mind due to the brand's identity.
+7. **Process Power**: The company's internal processes and culture allow for lower costs or higher quality that are difficult for competitors to replicate.
+
+This Improving Scientific Integrity proposal could be argued to have only two of the seven powers:
+* Counter-Positioning, and
+* Process Power
+neither of which are of much interest to established healthcare businesses.
 
 # 7. Results
+(TODO)
 
 # 8. Conclusion
 
