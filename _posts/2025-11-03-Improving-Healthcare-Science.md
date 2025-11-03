@@ -26,19 +26,32 @@ direction or another. [...]
 integrity--is, I'm sorry to say, something that we haven't specifically included in any
 particular course that I know of. We just hope you've caught on by osmosis.
 
-Going beyond the hope of learning scientific integrity through osmosis that eventually leads to scientific progress, this essay proposes a two-pronged strategy:
-1. improve scientific integrity, which is an ethical standard, and
-2. advance science, which is the outcome of debating and evolving hypotheses.
+Going beyond the hope of learning scientific integrity through osmosis that eventually leads to scientific progress in healthcare, this essay proposes a two-pronged strategy:
+1. improve scientific integrity, which is an ethical standard as described by Richard Feynman, and
+2. advance healthcare science, which is the outcome of debating and evolving hypotheses.
 
+The first part of the strategy is old, matching Feynman's 1974 comments about scientific integrity:
+* _"Utter honesty - a kind of leaning over backwards"_.
+* _"You must do the best you can - if you know anything at all wrong, or possibly wrong - to explain it."_
+* _"In summary, the idea is to try to give all of the information to help others to judge the value of your contributions, not just the information that leads to judgement in one particular direction or another."_
 
-at DeepMind's new [co-scientist](https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist) AI agent can teach scientific integrity, as Feynman had hoped. Scientific integrity is the cornerstone of the scientific method, one of humanity's most impactful concepts, along with agriculture, writing, and the harnessing of electricity. The scientific method is the most effective process for humanity to correct its own errors, biases, and misconceptions. The job titles that currently employ the scientific method the most are
+The second part of the strategy is new: DeepMind's [co-scientist](https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist) is an AI agent that makes
+* _"novel research hypotheses and proposals"_ through a
+* _"generate, debate, and evolve"_ process, where _"debate"_ is
+* _"tournament evolution"_ designed to rank and continually improve the ideas.
+
+This combination of old and new strategies will be tested on two markedly different healthcare problems common in kidney dialysis clinics:
+1. stabilize the hemoglobin levels of dialysis patients taking erythropoietin stimulating agents (ESAs),
+2. reduce the fruit fly infestation by mechanically limiting access to food sources instead of frequently exposing the already vulnerable kidney dialysis patients to pesticides.
+
+The expected impact is a noticeable increase in the use of the scientific method advancing scientific progress in the dialysis clinic. The job titles that currently employ the scientific method the most are
 * medical scientist/research scientist,
 * epidemiologist (i.e., disease detective),
 * clinical research scientist,
 * data scientists, and
 * experimental psychologist.
 
-However, this essay proposes expanding the use of the scientific method by bringing DeepMind's co-scientist AI agent to nurses and technicians within kidney dialysis clinics.
+However, this essay proposes expanding the reach of the scientific method by bringing DeepMind's co-scientist AI agent to nurses and technicians within kidney dialysis clinics.
 
 # 2. Previous work
 This Improving Scientific Integrity proposal builds directly upon the following concepts and technologies.
