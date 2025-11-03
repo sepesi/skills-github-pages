@@ -26,7 +26,7 @@ direction or another. [...]
 integrity--is, I'm sorry to say, something that we haven't specifically included in any
 particular course that I know of. We just hope you've caught on by osmosis.
 
-Going beyond the hope of learning scientific integrity through osmosis that eventually leads to scientific progress in healthcare, this essay proposes a two-pronged strategy:
+Going beyond the hope of learning scientific integrity through osmosis that eventually leads to scientific progress, this essay proposes a two-pronged strategy to healthcare progress:
 1. improve scientific integrity, which is an ethical standard as described by Richard Feynman, and
 2. advance healthcare science, which is the outcome of debating and evolving hypotheses.
 
@@ -38,20 +38,13 @@ The first part of the strategy is old, matching Feynman's 1974 comments about sc
 The second part of the strategy is new: DeepMind's [co-scientist](https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist) is an AI agent that makes
 * _"novel research hypotheses and proposals"_ through a
 * _"generate, debate, and evolve"_ process, where _"debate"_ is
-* _"tournament evolution"_ designed to rank and continually improve the ideas.
+* _"tournament evolution"_ designed to rank and continually improve the ideas about healthcare.
 
 This combination of old and new strategies will be tested on two markedly different healthcare problems common in kidney dialysis clinics:
 1. stabilize the hemoglobin levels of dialysis patients taking erythropoietin stimulating agents (ESAs),
 2. reduce the fruit fly infestation by mechanically limiting access to food sources instead of frequently exposing the already vulnerable kidney dialysis patients to pesticides.
 
-The expected impact is a noticeable increase in the use of the scientific method advancing scientific progress in the dialysis clinic. The job titles that currently employ the scientific method the most are
-* medical scientist/research scientist,
-* epidemiologist (i.e., disease detective),
-* clinical research scientist,
-* data scientists, and
-* experimental psychologist.
-
-However, this essay proposes expanding the reach of the scientific method by bringing DeepMind's co-scientist AI agent to nurses and technicians within kidney dialysis clinics.
+The immediate impact is a significant increase in the use of the scientific method in the dialysis clinic, demonstrating the possibility for a much wider impact, to many other healthcare fields in addition to kidney dialysis.
 
 # 2. Previous work
 This Improving Scientific Integrity proposal builds directly upon the following concepts and technologies.
@@ -229,6 +222,14 @@ neither of which are of much interest to established healthcare businesses.
 (TODO)
 
 # 8. Conclusion
+The job titles that currently employ the scientific method the most are
+* medical scientist/research scientist,
+* epidemiologist (i.e., disease detective),
+* clinical research scientist,
+* data scientists, and
+* experimental psychologist.
+
+This essay proposed expanding the reach of the scientific method by bringing DeepMind's co-scientist AI agent to nurses and technicians within kidney dialysis clinics, acting as a trial for expanding the reach of the scientific method to many other healthcare fields.
 
 [Paul Buchheit](https://en.wikipedia.org/wiki/Paul_Buchheit) was an early engineer (i.e., employee #23) at [Google](https://en.wikipedia.org/wiki/Google) before leaving in 2006 to co-found FriendFeed with [Bret Taylor](https://en.wikipedia.org/wiki/Bret_Taylor), now the chairman of [OpenAI](https://en.wikipedia.org/wiki/OpenAI). In 2009, [Facebook](https://en.wikipedia.org/wiki/Facebook) acquired FriendFeed but Buchheit left Facebook in 2010 to become a partner at [Y Combinator](https://en.wikipedia.org/wiki/Y_Combinator). Buchheit is a thought-leader concerning technology's impact on society. For example, in this [YouTube interview](https://youtu.be/LSUviaN1eso?t=874) at Y Combinator, Buchheit talks about two possible outcomes of AI:
 > When we think about what is
