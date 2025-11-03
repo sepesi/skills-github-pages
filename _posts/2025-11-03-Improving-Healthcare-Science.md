@@ -41,7 +41,7 @@ The second part of the strategy is new: DeepMind's [co-scientist](https://resear
 * _"tournament evolution"_ designed to rank and continually improve the ideas about healthcare.
 
 This combination of old and new strategies will be tested on two markedly different healthcare problems common in kidney dialysis clinics:
-1. stabilize the hemoglobin levels of dialysis patients taking erythropoietin stimulating agents (ESAs),
+1. stabilize the hemoglobin levels of dialysis patients who are taking erythropoietin stimulating agents (ESAs),
 2. reduce the fruit fly infestation by mechanically limiting access to food sources instead of frequently exposing the already vulnerable kidney dialysis patients to pesticides.
 
 The immediate impact is a significant increase in the use of the scientific method in the dialysis clinic, demonstrating the possibility for a much wider impact, to many other healthcare fields in addition to kidney dialysis.
