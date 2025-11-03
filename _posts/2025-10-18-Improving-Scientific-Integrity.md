@@ -1,5 +1,5 @@
 ---
-title: "Improving Scientific Integrity"
+title: "Improving Science"
 date: 2025-10-18
 ---
 # 1. Introduction
@@ -26,7 +26,12 @@ direction or another. [...]
 integrity--is, I'm sorry to say, something that we haven't specifically included in any
 particular course that I know of. We just hope you've caught on by osmosis.
 
-Going beyond the hope of learning scientific integrity through osmosis, this essay proposes that DeepMind's new [co-scientist](https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist) AI agent can teach scientific integrity, as Feynman had hoped. Scientific integrity is the cornerstone of the scientific method, one of humanity's most impactful concepts, along with agriculture, writing, and the harnessing of electricity. The scientific method is the most effective process for humanity to correct its own errors, biases, and misconceptions. The job titles that currently employ the scientific method the most are
+Going beyond the hope of learning scientific integrity through osmosis that eventually leads to scientific progress, this essay proposes a two-pronged strategy:
+1. improve scientific integrity, which is an ethical standard, and
+2. advance science, which is the outcome of debating and evolving hypotheses.
+
+
+at DeepMind's new [co-scientist](https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist) AI agent can teach scientific integrity, as Feynman had hoped. Scientific integrity is the cornerstone of the scientific method, one of humanity's most impactful concepts, along with agriculture, writing, and the harnessing of electricity. The scientific method is the most effective process for humanity to correct its own errors, biases, and misconceptions. The job titles that currently employ the scientific method the most are
 * medical scientist/research scientist,
 * epidemiologist (i.e., disease detective),
 * clinical research scientist,
