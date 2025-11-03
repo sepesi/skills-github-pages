@@ -31,7 +31,7 @@ Going beyond the hope of learning scientific integrity through osmosis that even
 2. advance healthcare science, which is the outcome of debating and evolving hypotheses.
 
 The first part of the strategy is old, matching Feynman's 1974 comments about scientific integrity:
-* _"Utter honesty - a kind of leaning over backwards"_.
+* _"Utter honesty - a kind of leaning over backwards."_
 * _"You must do the best you can - if you know anything at all wrong, or possibly wrong - to explain it."_
 * _"In summary, the idea is to try to give all of the information to help others to judge the value of your contributions, not just the information that leads to judgement in one particular direction or another."_
 
