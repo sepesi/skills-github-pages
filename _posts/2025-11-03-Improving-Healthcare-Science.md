@@ -127,52 +127,38 @@ for flexible compute scaling; (2) a tournament evolution process for self-improv
 Automated evaluations show continued benefits of test-time compute, improving hypothesis quality.
 
 # 3. Previous misdirected work
-The project before this Improving Scientific Integrity proposal was the patient health dashboard proposal. It was misdirected work because I was mistakenly focused on tooling (i.e., the visualization of the health status of a wide variety of patients) instead of being focused on a specific problem (i.e., stabilizing the hemoglobin levels of kidney disease patients).
+The project before this Improving Healthcare Science proposal was the patient health dashboard proposal. It was misdirected work because I was mistakenly focused on tooling (i.e., the visualization of the health status of a wide variety of patients) instead of being focused on a specific problem (i.e., stabilizing the hemoglobin levels of kidney dialysis patients).
 
-# 4. Proof of concept
+# 4. Architecture
+## 4.1 Communication structure
+
+## 4.2 File structure
+The data for Improving Healthcare Science will be stored in tab-separated ASCII text values, where each logged measurement has its own row in the text file. This simple file format makes importing the data into spreadsheet applications (for custom experimental analysis) simple (i.e., copy and paste).
+
+To make the text file more compact, it will use numerical indices to reference look up tables of user choices (e.g., food, medication, medical device selections) instead of storing the possibly lengthy descriptions of those choices.
+
+To reduce the burden of manual data entry, most of the logged measurements in this structured text file will be automatically extracted from unstructured data (i.e., extracted from smartphone camera images, for example images of food being weighed on a digital scale or images of the digital display of a blood pressure monitor).
+
+## 4.3 Debt structure
+To help ensure the features for Improving Healthcare Science remain aligned with customer needs (including affordable prices), feature development will be primarily funded by fees on optional features instead of by debt or venture capital.
+
+## 4.4 Price structure
+
+## 4.5 Viral structure
+The Improving Healthcare Science proof-of-concept is organized as a niche consulting business, where work happens only when there are good ideas to work on. To help find the good ideas to work on, apply the following list of four questions. Any idea that successfully traverses the entire gauntlet of questions is a good candidate for implementation.
+
+1. Is the problem easily measured?
+2. Has the problem been sufficiently studied?
+3. Has a similar problem been solved in a different discipline?
+4. Is an available person very interested in solving the problem?
+
+# 5. Implementation strategy
 The scientific method is a general purpose and skeptical approach to testing a wide variety of hypotheses. Co-scientist is an AI agent that automates parts of hypothesis testing. To demonstrate the co-scientist proof of concept, Google research developed and tested hypotheses in three biomedical areas:
 * drug repurposing,
 * novel target discovery, and
 * explaining mechanisms of anti-microbial resistance.
 
 This Improving Scientific Integrity essay demonstrates the co-scientist proof of concept by developing and testing a fourth biomedical area: stabilizing the hemoglobin levels of kidney disease patients. The problem is interdisciplinary because control theory has been solving stability problems in other fields for a century. The co-scientist is especially helpful with interdisciplinary problems due to its ability to quickly aggregate information from separate fields (a task that is particularly difficult for people).
-
-# 5. Architecture
-## 5.1 Management structure
-Management structure is not typically thought of as an area for innovation. However, the significant success of [Palantir](https://www.palantir.com/) appears to be fundamentally due to their management structure, in particular, their management of their so-called Forward Deployed Software Engineers (FDSE). FDSE candidates are strong in both entrepreneurship and technical skills. Palantir thinks of the FDSE role as "startup CTO" because FDSEs are given full ownership of their assigned projects where
-* they are deeply embedded in the customer's organization,
-* they are given extremely difficult and vaguely defined goals, and
-* they navigate the culture and politics within the organization.
-
-The advantage of this freedom from Palantir management is that FDSEs work shoulder-to-shoulder with the people in the organization who know the most about the problem. That new partnership quickly iterates toward a solution. This contrasts with **consultants** (who give advice but no implementation), **sales engineers** (who are embedded to make a demonstration but not a working solution) and **software engineers** (who maintain commercial, rather than custom, applications).
-
-Similar to Palantir's customers, healthcare also has very difficult goals. Perhaps healthcare would also benefit from a partner who
-* is deeply embedded to fully understand the healthcare problems, and
-* works directly with the healthcare personnel closest to the problems in order to quickly iterate toward solutions.
-
-According to this [YouTube interview with Bob McGrew](https://www.youtube.com/watch?v=Zyw-YA0k3xo), a member of an early Palantir engineering team that formed the FDSE concept, the initial team that Palantir assigns to a new customer consists of
-* a delta team (focused on writing quick prototypes to iterate on the customer's very specific problem until there is clear evidence that the customer's problem is solved), and
-* an echo team (focused on generalizing the quick prototypes so that they are ready to be reused by similar customers).
-
-Although I have never used the phrases delta team or echo team in describing my work experience, by coincidence I do have work experience writing quick prototypes (which is one of the reasons I like the Julia programming language) and also work experience successfully generalizing a specific software implementation used by several groups each with their own unique extra requirements.
-
-## 5.2 File structure
-The data for Improving Scientific Integrity will be stored in tab-separated ASCII text values, where each logged measurement has its own row in the text file. This simple file format makes importing the data into spreadsheet applications (for custom experimental analysis) simple (i.e., copy and paste).
-
-To make the text file more compact, it will use numerical indices to reference look up tables of user choices (e.g., food, medication, medical device selections) instead of storing the possibly lengthy descriptions of those choices.
-
-To reduce the burden of manual data entry, most of the logged measurements in this structured text file will be automatically extracted from unstructured data (i.e., extracted from smartphone camera images, for example images of food being weighed on a digital scale or images of the digital display of a blood pressure monitor).
-
-## 5.3 Debt structure
-To help ensure the features for Improving Scientific Integrity remain aligned with customer needs (including affordable prices), feature development will be primarily funded by fees on optional features instead of by debt or venture capital.
-
-## 5.4 Pick-your-job decision structure
-The Improving Scientific Integrity proof-of-concept is organized as a niche consulting business, where work happens only when there are good ideas to work on. To help find the good ideas to work on, apply the following list of four questions. Any idea that successfully traverses the entire gauntlet of questions is a good candidate for implementation.
-
-1. Is the problem easily measured?
-2. Has the problem been sufficiently studied?
-3. Has a similar problem been solved in a different discipline?
-4. Is an available person very interested in solving the problem?
 
 # 6. Possible objections
 Because Improving Scientific Integrity is a novel approach to testing and improving clinical care, the possible negative side effects must be considered and avoided. The following are common objections concerning AI.
