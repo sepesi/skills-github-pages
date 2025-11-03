@@ -44,7 +44,7 @@ This combination of old and new strategies will be tested on two markedly differ
 1. stabilize the hemoglobin levels of dialysis patients who are taking erythropoietin stimulating agents (ESAs),
 2. reduce the fruit fly infestation by mechanically limiting access to food sources instead of frequently exposing the already vulnerable kidney dialysis patients to pesticides.
 
-The immediate impact is a significant increase in the use of the scientific method in the dialysis clinic, demonstrating the possibility for a much wider impact, to many other healthcare fields in addition to kidney dialysis.
+The expected immediate impact is a significant increase in the use of the scientific method in the dialysis clinic, demonstrating the possibility of more impact within the healthcare field of kidney dialysis and a wider impact in many other healthcare fields.
 
 # 2. Previous work
 This Improving Scientific Integrity proposal builds directly upon the following concepts and technologies.
