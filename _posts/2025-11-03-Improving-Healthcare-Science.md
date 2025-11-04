@@ -107,7 +107,7 @@ Android smartphones offer several levels of data security.
 2. A slightly more secure level (level 2) is a file vault that employs obfuscation and misdirection to "hide" data. The vault application is "disguised" as a common utility application (e.g., a calculator) in the home screen. Although the vault application can perform some utility functions, when the secret PIN is entered it reveals the files in the "vault." However, instead of employing cryptography to secure the files, these vaults usually employ simple obfuscation techniques (e.g., changing file extensions from .jpg to .dat, modifying the first few bytes of the file header to confuse file type identification, or placing the files in a "hidden" folder whose name starts with a '.'). This level is primarily intended for security against novice adversaries (e.g., children) because vaults are easily detected (e.g., the vault file size is unreasonably big for a simple utility application like a calculator) and the obfuscations are easily removed.
 3. The most secure level (level 3) is called "Private Space" offering architectural isolation and data encryption. Private Space was first available in Android 15, released in October 2024. The security model of Private Space is stringent: when the space is locked, all applications within it are prevented from running background or foreground applications, cannot receive or display notifications, and are entirely hidden from system-wide file searches.
 
-This Improving Scientific Integrity proposal uses the level 3 security, Private Space on Android smartphones, to implement all five health data privacy requirements.
+This Improving Healthcare Science proposal uses the level 3 security, Private Space on Android smartphones, to implement all five health data privacy requirements.
 
 ## 2.10 Artificial intelligence
 The phrase "artificial intelligence" was coined in 1955 by John McCarthy who defined intelligence as "the computational part of the ability to achieve goals in the world." However, the field did not start its rapid growth until 2011, when GPUs were first programmed to accelerate the training of neural networks.
@@ -160,10 +160,10 @@ The scientific method is a general purpose and skeptical approach to testing a w
 * novel target discovery, and
 * explaining mechanisms of anti-microbial resistance.
 
-This Improving Scientific Integrity essay demonstrates the co-scientist proof of concept by developing and testing a fourth biomedical area: stabilizing the hemoglobin levels of kidney disease patients. The problem is interdisciplinary because control theory has been solving stability problems in other fields for a century. The co-scientist is especially helpful with interdisciplinary problems due to its ability to quickly aggregate information from separate fields (a task that is particularly difficult for people).
+This Improving Healthcare Science essay demonstrates the co-scientist proof of concept by developing and testing a fourth biomedical area: stabilizing the hemoglobin levels of kidney disease patients. The problem is interdisciplinary because control theory has been solving stability problems in other fields for a century. The co-scientist is especially helpful with interdisciplinary problems due to its ability to quickly aggregate information from separate fields (a task that is particularly difficult for people).
 
 # 6. Possible objections
-Because Improving Scientific Integrity is a novel approach to testing and improving clinical care, the possible negative side effects must be considered and avoided. The following are common objections concerning AI.
+Because Improving Healthcare Science is a novel approach to testing and improving clinical care, the possible negative side effects must be considered and avoided. The following are common objections concerning AI.
 
 ## 6.1 It'll never work
 **OBJECTION:** There is so much AI hype, claims about AI advancing science seem doubtful.  
@@ -178,7 +178,7 @@ and that would be great. There's almost no limit to how much healthcare people c
 person with an AI assistant much more efficient and you won't lead to less people because you'll just have much
 more of that being done."
 
-This Improving Scientific Integrity proposal is limited to the field of healthcare, where there is seemingly a limitless demand. 
+This Improving Healthcare Science proposal is limited to the field of healthcare, where there is seemingly a limitless demand. 
 
 ## 6.3 It'll further isolate people
 **OBJECTION:** Doctors are already complaining that their interactions with patients is being replaced by interactions with a laptop because of electronic medical records. Interaction with an AI co-scientist would also replace interactions with people.  
