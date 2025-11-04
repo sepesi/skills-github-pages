@@ -3,7 +3,7 @@ title: "Improving Healthcare Science"
 date: 2025-11-03
 ---
 # 1. Introduction
-[Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) received the Nobel Prize in Physics in 1965 for his contributions to the development of quantum electrodynamics. In 1974, he gave a Caltech [commencement address](https://faculty.sites.iastate.edu/tesfatsi/archive/tesfatsi/CargoCultScience.RichardFeynman1974.pdf) in which he told a story about a society that wanted the benefits of scientific progress, and did what it imagined were the necessary steps to get that progress, but progress never happened because they lacked “scientific integrity.” In his commencement address Feynman explains,
+In 1965, [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) received the Nobel Prize in Physics for his contributions to the development of quantum electrodynamics. In 1974, he gave a Caltech [commencement address](https://faculty.sites.iastate.edu/tesfatsi/archive/tesfatsi/CargoCultScience.RichardFeynman1974.pdf) in which he told a story about a society that wanted the benefits of scientific progress, and did what it imagined were the necessary steps to get that progress, but progress never happened because they lacked “scientific integrity.” In his commencement address Feynman explains,
   
 > It's a kind of scientific integrity,
 a principle of scientific thought that corresponds to a kind of utter honesty--a kind of
@@ -38,16 +38,16 @@ The first part of the strategy is old, matching Feynman's 1974 comments about sc
 The second part of the strategy is new: DeepMind's [co-scientist](https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist) is an AI agent that makes
 * _"novel research hypotheses and proposals"_ through a
 * _"generate, debate, and evolve"_ process, where _"debate"_ is
-* _"tournament evolution"_ designed to rank and continually improve the ideas about healthcare.
+* _"tournament evolution"_ designed to rank and continually improve the healthcare ideas.
 
-This combination of old and new strategies will be tested on two markedly different healthcare problems common in kidney dialysis clinics:
+This combination of old and new strategies will be tested on two markedly different healthcare problems that are common in kidney dialysis clinics:
 1. stabilize the hemoglobin levels of dialysis patients who are taking erythropoietin stimulating agents (ESAs),
 2. reduce the fruit fly infestation by mechanically limiting access to food sources instead of frequently exposing the already vulnerable kidney dialysis patients to pesticides.
 
-The expected immediate impact is a significant increase in the use of the scientific method in the dialysis clinic, demonstrating the possibility of more impact within the healthcare field of kidney dialysis and a wider impact in many other healthcare fields.
+The expected initial impact is a significant increase in the use of the scientific method in the dialysis clinic. However, a similar strategy could apply to many other healthcare fields.
 
 # 2. Previous work
-This Improving Scientific Integrity proposal builds directly upon the following concepts and technologies.
+This Improving Healthcare Science proposal builds directly upon the following concepts and technologies.
 
 ## 2.1 The scientific method
 The [scientific method](https://en.wikipedia.org/wiki/Scientific_method) is a set of core principles and values that guide inquiry.  It was slowly refined over millennia through contributions from multiple civilizations:
