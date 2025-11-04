@@ -241,4 +241,4 @@ Although this Improving Scientific Integrity proposal is focused on just kidney 
 2. Tufte, Edward, [_The Visual Display of Quantitative Information_](https://www.amazon.com/Visual-Display-Quantitative-Information/dp/0961392142), 2nd edition, Graphics Press, 1997. ISBN: 0961392142.
 3. Sivia, D.S., [_Data Analysis: A Bayesian Tutorial_](https://www.amazon.com/Data-Analysis-Bayesian-Devinderjit-Sivia/dp/0198568320), 2nd edition, Oxford University Press, 2006. ISBN: 0198568320.
 4. Pearl, Judea, [_Causality: Models, Reasoning, and Inference_](https://www.amazon.com/Causality-Reasoning-Inference-Judea-Pearl/dp/052189560X), 2nd edition, Cambridge University Press, 2009. ISBN: 052189560X.
-5. Kahneman, Daniel, [_Thinking, Fast and Slow+](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555), 1st paperback edition, Farrar, Straus and Giroux, 2013. ISBN: ‎ 0374533555.
+5. Kahneman, Daniel, [_Thinking, Fast and Slow_](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555), 1st paperback edition, Farrar, Straus and Giroux, 2013. ISBN: ‎ 0374533555.
