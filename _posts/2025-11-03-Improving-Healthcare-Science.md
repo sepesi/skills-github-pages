@@ -77,13 +77,9 @@ In contrast to the style of MyChart plots, Edward Tufte's small multiple plots i
 Figure 2-2 Small multiple plots in a dashboard about kidney function (plotted by Julia and Makie). The proposed dashboards are organized by organ (e.g., kidney, heart, liver) instead of by blood test (e.g., Complete Blood Count). Each dashboard contains up to 16 time series small multiple plots (i.e., up to eight calendar time plots alongside their corresponding clock time plots).  
 
 ## 2.5 Bayesian data analysis
-The Reverend Thomas Bayes first described his innovative approach to calculating probabilities in 1763. In 1812, the French polymath Pierre-Simon Laplace further developed the Bayesian approach but these ideas were later challenged and largely forgotten until their rediscovered by the British geophysicist and statistician Sir Harold Jeffreys in his 1939 book, Theory of Probability.
+The Reverend Thomas Bayes first described his innovative approach to calculating probabilities in 1763. In 1812, the French polymath Pierre-Simon Laplace further developed the Bayesian approach but these ideas were later challenged and largely forgotten until they were rediscovered by the British geophysicist and statistician Sir Harold Jeffreys in his 1939 book, Theory of Probability.
 
-Today, the healthcare perspective on probability is strangely bimodal:
-evidence with very few examples (e.g., N<5) is downplayed as anecdotal evidence having little clinical value (although it is valuable enough for doctors to witness and discuss during their rounds), and
-evidence with many examples (e.g., N>1000) in a randomized controlled trial is considered the gold standard of clinical value (although RCTs are rare because of their long duration and high cost).
-
-In contrast, the proposed patient health dashboards use Bayesian data analysis³ to formalize the presentation of anecdotal evidence and continually improve the confidence in that data analysis as more clinical examples become available. In other words, the proposed Bayesian data analysis continually learns and is expected to help fill a significant void in the current patient decision support. 
+The current healthcare perspective on probability is often dichotomous. Evidence with very few examples (e.g., N<5) is frequently categorized as anecdotal with little clinical value, whereas evidence from large-scale randomized controlled trials (e.g., N>1000) is considered the gold standard. In contrast, this Improving Healthcare Science proposal uses Bayesian data analysis³ to formalize the presentation of anecdotal evidence and continually improve the confidence in that data analysis as more clinical examples become available. In other words, Bayesian data analysis continually learns and is expected to help fill a significant void between anecdotal evidence and [RCTs](https://en.wikipedia.org/wiki/Randomized_controlled_trial). 
 
 ## 2.6 The Julia programming language
 Started in 2009 and first publicly released in 2012, Julia is a free high-level programming language that is fast and particularly well suited for data analysis. Makie (pronounced mah-key) is a modern plotting library for Julia.
@@ -210,26 +206,7 @@ neither of which are of much interest to established healthcare businesses.
 (TODO)
 
 # 8. Conclusion
-The job titles that currently employ the scientific method the most are
-* medical scientist/research scientist,
-* epidemiologist (i.e., disease detective),
-* clinical research scientist,
-* data scientists, and
-* experimental psychologist.
-
-This essay proposed expanding the reach of the scientific method by bringing DeepMind's co-scientist AI agent to nurses and technicians within kidney dialysis clinics, acting as a trial for expanding the reach of the scientific method to many other healthcare fields.
-
-[Paul Buchheit](https://en.wikipedia.org/wiki/Paul_Buchheit) was an early engineer (i.e., employee #23) at [Google](https://en.wikipedia.org/wiki/Google) before leaving in 2006 to co-found FriendFeed with [Bret Taylor](https://en.wikipedia.org/wiki/Bret_Taylor), now the chairman of [OpenAI](https://en.wikipedia.org/wiki/OpenAI). In 2009, [Facebook](https://en.wikipedia.org/wiki/Facebook) acquired FriendFeed but Buchheit left Facebook in 2010 to become a partner at [Y Combinator](https://en.wikipedia.org/wiki/Y_Combinator). Buchheit is a thought-leader concerning technology's impact on society. For example, in this [YouTube interview](https://youtu.be/LSUviaN1eso?t=874) at Y Combinator, Buchheit talks about two possible outcomes of AI:
-> When we think about what is
-the long-term trajectory of AI, it's the most powerful technology we've ever
-invented. So the question is where does that power go? I think there's essentially two directions: you
-either go towards centralization where all the power gets centralized in the government or in a small 
-number of big tech companies or something like that and my feeling is that that's catastrophic for the human
-species because you essentially minimize the agency and power of the individual, and I think the opposite
-direction is towards freedom and, as much as possible, we should give this
-power and these capabilities to every individual to be the best version of themselves.
-
-The AI outcome that centralizes power currently has a lot of momentum. For example, there are only a few [foundation models](https://en.wikipedia.org/wiki/Foundation_model) owned by a only a few companies. In contrast, this Improving Healthcare Science proposal attempts to go in the other direction, towards giving individuals (e.g., dialysis clinic nurses and technicians) the capabilities to be the best version of themselves as they continually improve healthcare science. If successful, the same strategy could be extended to more dialysis clinics and more healthcare fields.
+The job titles that currently employ the scientific method most frequently include medical scientist, research scientist, epidemiologist (i.e., disease detective), clinical research scientist, data scientists, and experimental psychologist. This essay proposed expanding the reach of the scientific method by bringing DeepMind's co-scientist AI agent to nurses and technicians within kidney dialysis clinics, acting as a trial for expanding the reach of the scientific method to many other healthcare fields.
 
 # References
 1. Shinners, Stanley M., [_Modern Control System Theory and Application_](https://www.amazon.com/Control-Application-Addison-Wesley-Electrical-Engineering/dp/020107494X), 2nd edition, Addison-Wesley, 1978. ISBN: 020107494X.
