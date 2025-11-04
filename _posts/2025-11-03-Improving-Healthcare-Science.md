@@ -144,7 +144,9 @@ To help ensure the features for Improving Healthcare Science remain aligned with
 
 ## 4.4 Price structure
 
-## 4.5 Viral structure
+## 4.5 Schedule structure
+
+## 4.6 Viral structure
 The Improving Healthcare Science proof-of-concept is organized as a niche consulting business, where work happens only when there are good ideas to work on. To help find the good ideas to work on, apply the following list of four questions. Any idea that successfully traverses the entire gauntlet of questions is a good candidate for implementation.
 
 1. Is the problem easily measured?
