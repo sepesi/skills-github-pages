@@ -162,7 +162,7 @@ This Improving Healthcare Science essay demonstrates the co-scientist proof of c
 Because Improving Healthcare Science is a novel approach to testing and improving clinical care, the possible negative side effects must be considered and avoided. The following are common objections concerning AI.
 
 ## 6.1 It'll never work
-**OBJECTION:** There is so much AI hype, claims about AI advancing science seem doubtful.  
+**OBJECTION:** Given the significant hype surrounding artificial intelligence, There is so much AI hype, claims that AI will meaningfully advance scientific discovery are met with considerable skepticism.    
 **RESPONSE:** The group that developed co-scientist is the same group that developed [AlphaFold](https://en.wikipedia.org/wiki/AlphaFold), which had such a positive impact on science that the 2024 Nobel Prize in Chemistry was awarded to Demis Hassabis and John Jumper of Google DeepMind. While that is no guarantee that co-scientist will also have a positive impact on science, the stellar reputation of the group that developed co-scientist is not AI hype.
 
 ## 6.2 It'll take work from people
@@ -174,7 +174,7 @@ and that would be great. There's almost no limit to how much healthcare people c
 person with an AI assistant much more efficient and you won't lead to less people because you'll just have much
 more of that being done."
 
-This Improving Healthcare Science proposal is limited to the field of healthcare, where there is seemingly a limitless demand. 
+As Hinton suggests, healthcare is a field where efficiency gains from AI are likely to expand services rather than displace labor due to high unmet demand. This proposal aligns with that view by focusing exclusively on augmenting the capabilities of healthcare professionals in a high-need area.
 
 ## 6.3 It'll further isolate people
 **OBJECTION:** Doctors are already complaining that their interactions with patients is being replaced by interactions with a laptop because of electronic medical records. Interaction with an AI co-scientist would also replace interactions with people.  
@@ -186,21 +186,7 @@ This Improving Healthcare Science proposal is limited to the field of healthcare
 
 ## 6.5 It's not a viable business
 **OBJECTION:** With no competitive advantage, the business will fail.  
-**RESPONSE:** The focus of Improving Scientific Integrity is on solving patient problems (including affordability), not on maximizing profit. Therefore, many people would not consider it to be a business at all. In my opinion, it is more career development or continuing education than it is a business. However, each person using co-scientist must make the business decision of whether the rewards are greater than the investment in time.
-
-Hamilton Helmer's book, _[7 Powers](https://7powers.com/): The Foundations of Business Strategy_, describes the seven types of competitive advantages that create a durable moat for a business:
-1. **Scale Economies**: The cost per unit of a product or service decreases as the volume of production increases.
-2. **Network Economies**: The value of a product or service increases as more users join the network.
-3. **Switching Costs**: It is costly or painful for a customer to switch to a competitor's product or service.
-4. **Counter-Positioning**: A new company uses a business model or value proposition that incumbents cannot easily copy without damaging their existing business.
-5. **Cornered Resource**: A company has unique access to a valuable asset, such as a patent, property, or key talent.
-6. **Branding**: An objectively similar product gains higher perceived value in the customer's mind due to the brand's identity.
-7. **Process Power**: The company's internal processes and culture allow for lower costs or higher quality that are difficult for competitors to replicate.
-
-This Improving Scientific Integrity proposal has only two of the seven powers:
-* Counter-Positioning, and
-* Process Power
-neither of which are of much interest to established healthcare businesses.
+**RESPONSE:** The focus of Improving Healthcare Science is on solving patient problems (including affordability), not on maximizing profit. Therefore, many people would not consider it to be a business at all. In my opinion, it is more career development or continuing education than it is a business. However, each person using co-scientist must make the business decision of whether the rewards are greater than the investment in time.
 
 # 7. Results
 (TODO)
