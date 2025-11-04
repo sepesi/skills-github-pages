@@ -229,7 +229,7 @@ species because you essentially minimize the agency and power of the individual,
 direction is towards freedom and, as much as possible, we should give this
 power and these capabilities to every individual to be the best version of themselves.
 
-The AI outcome that centralizes power currently has a lot of momentum. For example, there are only a few [foundation models](https://en.wikipedia.org/wiki/Foundation_model) owned by a only a few companies. In contrast, this Improving Healthcare Science proposal attempts to go in the other direction, towards giving individuals (e.g., dialysis clinic nurses and technicians) the capabilities to be the best version of themselves as they continually improve healthcare science.
+The AI outcome that centralizes power currently has a lot of momentum. For example, there are only a few [foundation models](https://en.wikipedia.org/wiki/Foundation_model) owned by a only a few companies. In contrast, this Improving Healthcare Science proposal attempts to go in the other direction, towards giving individuals (e.g., dialysis clinic nurses and technicians) the capabilities to be the best version of themselves as they continually improve healthcare science. If successful, the same strategy could be extended to more dialysis clinics and more healthcare fields.
 
 # References
 1. Shinners, Stanley M., [_Modern Control System Theory and Application_](https://www.amazon.com/Control-Application-Addison-Wesley-Electrical-Engineering/dp/020107494X), 2nd edition, Addison-Wesley, 1978. ISBN: 020107494X.
