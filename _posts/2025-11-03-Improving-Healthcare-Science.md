@@ -134,10 +134,10 @@ The standard flow of communication in a dialysis clinic is for a hierarchical co
 
 In contrast, the proposed flow of communication to improve healthcare science is a combination of hub-and-spoke communication followed by the standard hierarchical command and control communication. The hub-and-spoke communication is an attempt to avoid a bias favoring the ideas from the doctors over the ideas from the nurses/technicians and the patients. To avoid conflicting with the necessary hierarchical command and control communication in the clinic, the hub-and-spoke communication will be a series of meetings outside the clinic (e.g., a nearby cafe) in which each group has a chance to freely voice their ideas. The ideas will be ranked by the co-scientist and the co-scientist operator will deliver the highest ranked idea to the dialysis clinic doctors, where it can be dispersed by the standard hierarchical command and control communication.
 
-`                  -----------
-      doctors <-> | co-       |
- nurses/techs <-> | scientist | <-> doctors <-> nurses/techs <-> patients
-     patients <-> | operator  |
+`                  -----------  
+      doctors <-> | co-       |  
+ nurses/techs <-> | scientist | <-> doctors <-> nurses/techs <-> patients  
+     patients <-> | operator  |  
                    -----------`  
 **Figure 4-2. Hub-and-spoke communication (off-site) followed by standard hierarchical command and contro communication.**
   
