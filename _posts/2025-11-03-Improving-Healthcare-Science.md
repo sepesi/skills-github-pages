@@ -130,6 +130,7 @@ The project before this Improving Healthcare Science proposal was the patient he
 The standard flow of communication in a dialysis clinic is for a hierarchical command and control organization, which is particularly effective when there is an established standard of care that needs to be replicated for hundreds of patients.
 
 ![file:///C:/dev/health/HRlog/IHS_comm1.png]
+
 `doctors <-> nurses/techs <-> patients`  
 **Figure 4-1. Standard flow of communication in dialysis clinic**
 
