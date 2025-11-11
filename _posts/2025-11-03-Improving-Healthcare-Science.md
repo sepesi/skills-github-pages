@@ -106,9 +106,9 @@ Android smartphones offer several levels of data security.
 This proposal uses the level 3 security, Private Space on Android smartphones, to implement all five health data privacy requirements.
 
 ## 2.10 Artificial intelligence
-The phrase "artificial intelligence" was coined in 1955 by John McCarthy who defined intelligence as "the computational part of the ability to achieve goals in the world." However, the field did not start its rapid growth until 2011, when GPUs were first programmed to accelerate the training of neural networks.
+The phrase "artificial intelligence" was coined in 1955 by John McCarthy who defined intelligence as "the computational part of the ability to achieve goals in the world." However, the field did not start its rapid growth until 2011, when [GPU](https://en.wikipedia.org/wiki/Graphics_processing_unit)s were first programmed to accelerate the training of neural networks.
 
-Today, the capabilities of the neural-network-trained Large Language Models (LLMs) might be best described as uneven across tasks. For example, Google's Gemini deep research model is the best proofreader of essays (e.g., this one) I've ever worked with, human or not. Yet, that same LLM is not currently capable of transforming an English description of a desired plot into Makie code to plot it. Empowering healthcare professionals to write "prompt to plot" specifications to get helpful views of patient data is so important to the proposed patient health dashboards that a significant portion of a grant-funded budget should go to supporting professional Makie developers working on that capability.
+Today, the capabilities of the neural-network-trained Large Language Models (LLMs) might be best described as uneven across tasks. For example, Google's Gemini deep research model is an extraordinary proofreader of essays (e.g., this one). Yet, that same LLM is not currently capable of transforming an English description of a desired plot into Makie code to plot it. Empowering healthcare professionals to write "prompt to plot" specifications to get helpful views of patient data is a key goal of this proposal.
 
 ## 2.11 Google Research's co-scientist
 According to the Google Research paper [_Towards an AI co-scientist_](https://storage.googleapis.com/coscientist_paper/ai_coscientist.pdf),
@@ -123,7 +123,7 @@ for flexible compute scaling; (2) a tournament evolution process for self-improv
 Automated evaluations show continued benefits of test-time compute, improving hypothesis quality.
 
 # 3. Previous misdirected work
-The project before this Improving Healthcare Science proposal was the patient health dashboard proposal. It was misdirected work because I was mistakenly focused on tooling (i.e., the visualization of the health status of a wide variety of patients) instead of being focused on a specific problem (i.e., stabilizing the hemoglobin levels of kidney dialysis patients).
+The project before this proposal was a patient health dashboard proposal. It was misdirected work because I was mistakenly focused on tooling (i.e., the visualization of the health status of a wide variety of patients) instead of being extremely focused on a specific problem (i.e., stabilizing the hemoglobin levels of kidney dialysis patients).
 
 # 4. Architecture
 ## 4.1 Communication structure
