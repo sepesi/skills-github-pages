@@ -47,7 +47,7 @@ This combination of old and new strategies will be tested on two markedly differ
 The expected initial impact is an increase in the use of the scientific method in one dialysis clinic. However, a similar strategy could apply to many other dialysis clinics and mmany other healthcare fields.
 
 # 2. Previous work
-This Improving Healthcare Science proposal builds directly upon the following concepts and technologies.
+This proposal builds directly upon the following concepts and technologies.
 
 ## 2.1 The scientific method
 The [scientific method](https://en.wikipedia.org/wiki/Scientific_method) is a set of core principles and values that guide inquiry.  It was slowly refined over millennia through contributions from multiple civilizations:
