@@ -26,8 +26,8 @@ direction or another. [...]
 integrity--is, I'm sorry to say, something that we haven't specifically included in any
 particular course that I know of. We just hope you've caught on by osmosis.
 
-Going beyond the hope of learning scientific integrity through osmosis that eventually leads to scientific progress, this essay proposes a two-pronged strategy to healthcare progress:
-1. improve scientific integrity, which is an ethical standard as described by Richard Feynman, and
+Going beyond the hope of learning scientific integrity through osmosis that eventually leads to scientific progress, this essay proposes a two-pronged strategy for healthcare progress:
+1. promote scientific integrity, which is an ethical standard as described by Richard Feynman, and
 2. advance healthcare science, which is the outcome of debating and evolving hypotheses.
 
 The first part of the strategy is old, matching Feynman's 1974 comments about scientific integrity:
@@ -42,9 +42,9 @@ The second part of the strategy is new: DeepMind's [co-scientist](https://resear
 
 This combination of old and new strategies will be tested on two markedly different healthcare problems that are common in kidney dialysis clinics:
 1. stabilize the hemoglobin levels of dialysis patients who are taking erythropoietin stimulating agents (ESAs),
-2. reduce the fruit fly infestation by mechanically limiting access to food sources instead of frequently exposing the already vulnerable kidney dialysis patients to pesticides.
+2. reduce the fruit fly infestation in dialysis clinics by mechanically limiting access to food sources instead of frequently exposing the already vulnerable kidney dialysis patients to pesticides.
 
-The expected initial impact is a significant increase in the use of the scientific method in the dialysis clinic. However, a similar strategy could apply to many other healthcare fields.
+The expected initial impact is an increase in the use of the scientific method in one dialysis clinic. However, a similar strategy could apply to many other dialysis clinics and mmany other healthcare fields.
 
 # 2. Previous work
 This Improving Healthcare Science proposal builds directly upon the following concepts and technologies.
