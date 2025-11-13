@@ -45,7 +45,7 @@ This combination of old and new strategies will be tested on two markedly differ
 1. stabilize the hemoglobin levels of dialysis patients who are taking erythropoietin stimulating agents (ESAs),
 2. reduce the fruit fly infestation in dialysis clinics by mechanically limiting access to food sources instead of frequently exposing the already vulnerable kidney dialysis patients to pesticides.
 
-The expected initial impact is an increase in the use of the scientific method in one dialysis clinic. However, a similar strategy could apply to many other dialysis clinics and many other healthcare fields.
+Both tests would quickly fail if they were simply added to the already full workload of personnel at the clinic. Instead, the tests will be merged with the full workload at the clinic according to implementation science, which accounts for the tendency of organizations with strong cultures to quickly reject any nonconforming practice. The expected impact at the clinic is a significant increase in the number of patients with stable hemoglobin levels and a significant decrease in fruit flies in the clinic. However, a similar strategy could apply to many other dialysis clinics and many other healthcare fields.
 
 # 2. Previous work
 This proposal builds directly upon the following concepts and technologies.
