@@ -126,7 +126,7 @@ Automated evaluations show continued benefits of test-time compute, improving hy
 The project before this proposal was a patient health dashboard proposal. It was misdirected work because I was mistakenly focused on tooling (i.e., the visualization of the health status of a wide variety of patients) instead of being extremely focused on a specific problem (i.e., stabilizing the hemoglobin levels of kidney dialysis patients).
 
 # 4. Architecture
-A handful of simple structures summarizes the proposed design.
+A handful of simple structures summarize the proposed design.
 
 ## 4.1 Communication structure
 Communication in a dialysis clinic is mostly command and control, which is particularly effective when there is an established standard of care that needs to be replicated for hundreds of patients. Instructions flow from the doctors to the patients and data flows in the opposite direction.
