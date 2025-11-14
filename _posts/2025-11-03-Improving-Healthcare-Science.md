@@ -129,25 +129,25 @@ The project before this proposal was a patient health dashboard proposal. It was
 A handful of simple structures summarize the proposed design.
 
 ## 4.1 Communication structure
-Communication in a dialysis clinic is mostly command and control, which is particularly effective when there is an established standard of care that needs to be replicated for hundreds of patients. Instructions flow from the doctors to the patients and data flows in the opposite direction.
+Communication in a dialysis clinic is mostly command and control, which is particularly effective when there is an established standard of care that needs to be administered to hundreds of patients. In a dialysis clinic, instructions flow from the doctors to the patients. Data (e.g., [vital signs](https://en.wikipedia.org/wiki/Vital_signs)) flows in the opposite direction, from patients to doctors.
 
 ![Image](../images/IHS_comm1.png "usual flow of communication")  
 **Figure 4-1. Usual flow of communication in dialysis clinic**
 
-In contrast, the proposed flow of communication to improve healthcare science is a combination of hub-and-spoke communication followed by the standard hierarchical command and control communication. The hub-and-spoke communication is an attempt to avoid a bias favoring the ideas from the doctors over the ideas from the nurses/technicians and the patients. To avoid conflicting with the necessary hierarchical command and control communication in the clinic, the hub-and-spoke communication will be a series of meetings outside the clinic (e.g., a nearby cafe or maker space) in which everyone has a chance to freely voice their ideas. The ideas will be ranked by the co-scientist and delivered to the dialysis clinic doctors, where the ideas can be dispersed through the usual hierarchical command and control communication.
+In contrast, the proposed flow of communication is a combination of hub-and-spoke communication followed by the usual command and control communication. The hub-and-spoke communication is an attempt to avoid a bias against ideas from the nurses/technicians and the patients. To avoid conflicting with the usual command and control communication in the clinic, the hub-and-spoke communication will be a series of meetings outside the clinic (e.g., a nearby cafe or maker space) in which everyone has a chance to freely voice their ideas. The ideas will be ranked by the co-scientist and then delivered to the dialysis clinic doctors, where the ideas can be dispersed through the usual command and control communication in the clinic.
 
 ![Image](../images/IHS_comm2.png "hub-and-spoke flow of communication")  
 **Figure 4-2. Hub-and-spoke off-site communication followed by usual floww of communication in dialysis clinic.**
   
 ## 4.2 File structure
-The data for Improving Healthcare Science will be stored in tab-separated ASCII text values, where each logged measurement has its own row in the text file. This simple file format makes importing the data into spreadsheet applications (for custom experimental analysis) simple (i.e., copy and paste).
+The data acquired for the proposed hemoglobin stability test and the fruit fly population control test will be stored in tab-separated ASCII text values, where each logged measurement has its own row in the text file. This simple file format makes importing the data into spreadsheet applications (for custom experimental analysis) simple (i.e., copy and paste).
 
 To make the text file more compact, it will use numerical indices to reference look up tables of user choices (e.g., food, medication, medical device selections) instead of storing the possibly lengthy descriptions of those choices.
 
 To reduce the burden of manual data entry, most of the logged measurements in this structured text file will be automatically extracted from unstructured data (i.e., extracted from smartphone camera images, for example images of food being weighed on a digital scale or images of the digital display of a blood pressure monitor).
 
 ## 4.3 Debt structure
-To help ensure the features for Improving Healthcare Science remain aligned with customer needs (including affordable prices), feature development will be primarily funded by fees on optional features instead of by debt or venture capital.
+To help ensure the features for the proposed tests remain aligned with customer needs (including affordable prices), feature development will be primarily funded by fees on optional features instead of by debt or venture capital.
 
 ## 4.4 Price structure
 
