@@ -45,7 +45,7 @@ This combination of old and new strategies will be tested on two markedly differ
 1. stabilize the hemoglobin levels of dialysis patients who are taking erythropoietin stimulating agents (ESAs),
 2. reduce the fruit fly infestation in dialysis clinics by mechanically limiting access to food sources instead of frequently exposing the already vulnerable kidney dialysis patients to pesticides.
 
-Both tests would quickly fail if they were simply added to the already full workload of personnel at the clinic. Instead, the tests will be merged with the full workload at the clinic according to implementation science, which accounts for the tendency of organizations with strong cultures to quickly reject any nonconforming practice. The expected impact at the clinic is a significant increase in the number of patients with stable hemoglobin levels and a significant decrease in fruit flies in the clinic. However, a similar strategy could apply to many other dialysis clinics and many other healthcare fields.
+Both tests would quickly fail if they were simply added to the already full workload of personnel at the clinic. Instead, the tests will be merged with the full workload at the clinic according to implementation science, which accounts for the tendency of organizations with strong cultures to quickly reject any nonconforming practice. The expected impact of the two tests at the clinic is a significant increase in the number of patients with stable hemoglobin levels and a significant decrease in fruit flies in the clinic. However, a similar strategy could apply to many other dialysis clinics and many other healthcare fields.
 
 # 2. Previous work
 This proposal builds directly upon the following concepts and technologies.
@@ -127,8 +127,10 @@ Automated evaluations show continued benefits of test-time compute, improving hy
 The project before this proposal was a patient health dashboard proposal. It was misdirected work because I was mistakenly focused on tooling (i.e., the visualization of the health status of a wide variety of patients) instead of being extremely focused on a specific problem (i.e., stabilizing the hemoglobin levels of kidney dialysis patients).
 
 # 4. Architecture
+The proposed design is summarized with the description of a handful of simple structures.
+
 ## 4.1 Communication structure
-The standard flow of communication in a dialysis clinic is for a hierarchical command and control organization, which is particularly effective when there is an established standard of care that needs to be replicated for hundreds of patients.
+Communication in a dialysis clinic is mostly command and control, which is particularly effective when there is an established standard of care that needs to be replicated for hundreds of patients. Instructions flow from the doctors to the patients and data flows in the opposite direction.
 
 ![Image](../images/IHS_comm1.png "usual flow of communication")  
 **Figure 4-1. Usual flow of communication in dialysis clinic**
