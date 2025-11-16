@@ -2,6 +2,12 @@
 title: "Improving Healthcare Science"
 date: 2025-11-03
 ---
+# 0. Executive summary
+The following two paragraph executive summary was written by Gemini 2.5 deep research,
+> "Improving Healthcare Science" argues that the stagnation in clinical outcomes, particularly in renal care, stems from a "Cargo Cult" approach to medicine—mimicking the forms of science without the requisite "scientific integrity" described by Richard Feynman. To counter this, the proposal suggests a dual strategy: reinstating the ethical discipline of "leaning over backwards" to disclose all conflicting information, and deploying Google DeepMind’s AI Co-scientist to augment human reasoning. By utilizing the AI's "generate, debate, and evolve" architecture, the plan aims to democratize high-level scientific inquiry, enabling frontline nurses and technicians to generate and continually refine hypotheses through "tournament evolution," thereby converting dialysis clinics from static service centers into active research environments.  
+>
+> The essay details two proof-of-concept applications: stabilizing hemoglobin levels using Control Theory principles and mitigating fruit fly infestations through environmental barriers rather than pesticides. To support these initiatives, the proposal outlines a rigorous privacy framework utilizing Android 15’s "Private Space" , which ensures patient data ownership and isolation through OS-level encryption. This technical layer is complemented by a "debt-free" economic model and a "hub-and-spoke" organizational structure designed to bypass institutional inertia, ensuring that data analysis—visualized through high-density "small multiple" plots—translates into verifiable clinical progress rather than mere procedural compliance.
+
 # 1. Introduction
 In 1965, [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) received the Nobel Prize in Physics for his contributions to the development of quantum electrodynamics. In 1974, he gave a Caltech [commencement address](https://faculty.sites.iastate.edu/tesfatsi/archive/tesfatsi/CargoCultScience.RichardFeynman1974.pdf) in which he told a story about a society that wanted the benefits of scientific progress, and did what it imagined were the necessary steps to get that progress, but progress never happened because they lacked “scientific integrity.” In his commencement address Feynman explains,
   
