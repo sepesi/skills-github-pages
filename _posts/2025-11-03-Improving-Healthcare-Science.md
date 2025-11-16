@@ -178,9 +178,17 @@ For an idea for a requested scientific advancement to become a reliably working 
 5. Is the solution affordable?
 6. Is the solution easily explained (i.e., transparent)?
 7. Is the solution reliable?
-8. Does the solution offer a significant (e.g., 2x) improvement over the original problem?
+8. Is the rate of improvement fast enough (e.g., 10% improvement per week)?
+9. Does the solution offer a significant (e.g., 2x) improvement over the original problem?
 
-In order to avoid conflicting with the usual command and control communication pattern in the dialysis clinic, all discussions about the requested scientific advancement will be off-site (e.g., a nearby cafe or maker space).
+To avoid conflicting with the usual command and control communication pattern in the dialysis clinic, all discussions about the requested scientific advancement will be off-site (e.g., a nearby cafe or maker space). To avoid wasting time working on a dead-end, a requested scientific advancement with a currently stalled checklist is set aside and replaced by work on a different requested scientific advanceent.
+
+The solution to the requested scientific advancement is expected to steadily improve, as shown in the [documentation](https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/) of the co-scientist, where the [ELO rating](https://en.wikipedia.org/wiki/Elo_rating_system) was a method originally for calculating the relative skill of chess players, but has been adopted to score the relative skill of professional sporting teams and, more recently, Large Language Models.
+
+![image](https://storage.googleapis.com/gweb-research2023-media/images/AICoScientist-4-BestHypothesis.width-1250.png)
+**Figure 5-1. Example of the continuing improvement of the co-scientist's hypotheses.**
+
+This continuous improvement in working solutions developed by already-hired staff contrasts with consultants (who give advice but no implementation), sales engineers (who are embedded to make a demonstration but not a working solution) and software engineers (who maintain commercial, rather than custom, applications).
 
 # 6. Possible objections
 Because Improving Healthcare Science is a novel approach to testing and improving clinical care, the possible negative side effects must be considered and avoided. The following are common objections concerning AI.
