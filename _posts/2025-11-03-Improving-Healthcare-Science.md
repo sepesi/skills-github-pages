@@ -150,9 +150,9 @@ To reduce the burden of manual data entry, most of the logged measurements in th
 To help ensure the features for the proposed tests remain aligned with customer needs (including affordable prices), feature development will be primarily funded by fees on optional features instead of by debt or venture capital.
 
 ## 4.4 Price structure
-Today's debate about the high cost of healthcare usually focuses on the payment (e.g., health insurance subsidies) instead of the efficiency. To significantly lower the cost of healthcare, more focus is needed on the efficiency of healthcare delivery. For example, instead of treating dialysis patients individually to stabilize their hemoglobin levels, is it possible to treat them as a patient cohort? A cohort of patients with unstable hemoglobin levels (i.e., about 95% of dialysis patients receiving ESA treatments) can be automatically ranked and [triaged](https://en.wikipedia.org/wiki/Triage) according to their level of hemoglobin level instability. Then, healthcare delivered by a human can be limited to just the third of the patient cohort needing the most help with stabilizing their hemoglobin levels. THe other two thirds of the cohort can track their own progress in stabilizing their hemoglobin levels by seeing their automated ranking within their cohort. For example, "Congratulations, this month you have the third most stable hemoglobin level in your patient cohort."
+The concern about the high cost of healthcare often focuses on payment (e.g., health insurance subsidies) instead of efficiency. However, to significantly lower the cost of healthcare, more focus is needed on the efficiency of healthcare. For example, instead of treating dialysis patients individually to stabilize their hemoglobin levels, is it possible to treat them as a patient cohort? A cohort of patients with unstable hemoglobin levels (i.e., about 95% of dialysis patients receiving ESA treatments) can be automatically ranked and [triaged](https://en.wikipedia.org/wiki/Triage) according to their level of hemoglobin level instability. Then, healthcare from a human can be limited to just the third of the patient cohort needing the most help with stabilizing their hemoglobin levels. THe other two thirds of the cohort can track their own progress in stabilizing their hemoglobin levels by seeing their automated ranking within their cohort. For example, "Congratulations, this month you have the third most stable hemoglobin level in your patient cohort."
 
-Another way to decrease the high cost of healthcare is to offer rewards that are highly valued but not monetary. Examples of non-monetary rewards that can be offered to dialysis clinic nurses and technicians (who are already receiving their base pay from the dialysis clinic) are
+In addition to increasing efficiency, another way to decrease the high cost of healthcare is to offer rewards that are highly valued but not monetary. Examples of non-monetary rewards that can be offered to dialysis clinic nurses and technicians (who are already receiving their base pay from the dialysis clinic) are
 * a weekly free lunch with your closest coworkers,
 * a chance to learn skills that are highly valued in the healthcare field,
 * a chance to learn skills that are highly valued in other fields,
@@ -160,23 +160,30 @@ Another way to decrease the high cost of healthcare is to offer rewards that are
 * recognition outside of your clinic, and
 * a monetary bonus if the test results are helpful enough to be adopted by other dialysis clinics.
 
-A fair price must account for supply and demand, as in an [auction](https://en.wikipedia.org/wiki/Auction). The demand side will be a queue of requested scientific advancements in healthcare along with the bonus price the requester is willing to pay if the requested scientific advanceent is shown to work reliably. The supply side will be a queue of available healthcare professionals along with their minimal bonus they are willing to accept for a requested scientific advancement and their reputation score from previous work on requested scientific advancements in healthcare. Fair prices will be determined by the best matches between the items in the demand queue and the supply queue.
+A fair price must account for supply and demand, as in an [auction](https://en.wikipedia.org/wiki/Auction). The demand side will be a queue of requested scientific advancements along with the bonus price the requester is willing to pay if the requested scientific advanceent is demonstrated to work reliably. The supply side will be a queue of available healthcare professionals along with their minimal bonus they are willing to accept for accomplishing a requested scientific advancement and their reputation score from previous work on requested scientific advancements. Fair prices will be set by matching items in the demand queue with items in the supply queue.
 
 ## 4.5 Growth structure
-The Improving Healthcare Science proof-of-concept is organized as a niche consulting business, where work happens only when there are good ideas to work on. To help find the good ideas to work on, apply the following list of four questions. Any idea that successfully traverses the entire gauntlet of questions is a good candidate for implementation.
+Even if a requested scientific advancement is demonstrated to work reliably in one dialysis clinic, the idea needs to spread to have a broad impact. This proposal promotes the spread of ideas in several ways:
 
-1. Is the problem easily measured?
-2. Has the problem been sufficiently studied?
-3. Has a similar problem been solved in a different discipline?
-4. Is an available person very interested in solving the problem?
+1. **From person to person.** Starting with just two dialysis clinic nurses/technicians, they will be the ones to encourage some of their co-workers to join. 
+2. **From business to business.** Peer-reviewed publications of clinical trial results seem more likely to spread the idea about requested scientific advancements than word of mouth because people might be reluctant to give tips that would make a dialysis clinic competitor more efficient.
+3. **From discipline to discipline.** Transferring ideas from one discipline to another is a strength of the co-scientist AI agent because of its ability to quickly search through many disciplines. For example, the idea on how to stabilize hemoglobin comes from [control theory](https://en.wikipedia.org/wiki/Control_theory) and the idea on ho to reduce the fruit fly infestation in dialysis clinics comes from [entomolgy](https://en.wikipedia.org/wiki/Entomology).
 
 # 5. Implementation strategy
+(TODO)
 The scientific method is a general purpose and skeptical approach to testing a wide variety of hypotheses. Co-scientist is an AI agent that automates parts of hypothesis testing. To demonstrate the co-scientist proof of concept, Google research developed and tested hypotheses in three biomedical areas:
 * drug repurposing,
 * novel target discovery, and
 * explaining mechanisms of anti-microbial resistance.
 
 This Improving Healthcare Science essay demonstrates the co-scientist proof of concept by developing and testing a fourth biomedical area: stabilizing the hemoglobin levels of kidney disease patients. The problem is interdisciplinary because control theory has been solving stability problems in other fields for a century. The co-scientist is especially helpful with interdisciplinary problems due to its ability to quickly aggregate information from separate fields (a task that is particularly difficult for people).
+
+thcare Science proof-of-concept is organized as a niche consulting business, where work happens only when there are good ideas to work on. To help find the good ideas to work on, apply the following list of four questions. Any idea that successfully traverses the entire gauntlet of questions is a good candidate for implementation.
+
+1. Is the problem easily measured?
+2. Has the problem been sufficiently studied?
+3. Has a similar problem been solved in a different discipline?
+4. Is an available person very interested in solving the problem?
 
 # 6. Possible objections
 Because Improving Healthcare Science is a novel approach to testing and improving clinical care, the possible negative side effects must be considered and avoided. The following are common objections concerning AI.
