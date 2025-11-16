@@ -166,24 +166,19 @@ A fair price must account for supply and demand, as in an [auction](https://en.w
 Even if a requested scientific advancement is demonstrated to work reliably in one dialysis clinic, the idea needs to spread to have a broad impact. This proposal promotes the spread of ideas in several ways:
 
 1. **From person to person.** Starting with just two dialysis clinic nurses/technicians, they will be the ones to encourage some of their co-workers to join. 
-2. **From business to business.** Peer-reviewed publications of clinical trial results seem more likely to spread the idea about requested scientific advancements than word of mouth because people might be reluctant to give tips that would make a dialysis clinic competitor more efficient.
-3. **From discipline to discipline.** Transferring ideas from one discipline to another is a strength of the co-scientist AI agent because of its ability to quickly search through many disciplines. For example, the idea on how to stabilize hemoglobin comes from [control theory](https://en.wikipedia.org/wiki/Control_theory) and the idea on ho to reduce the fruit fly infestation in dialysis clinics comes from [entomolgy](https://en.wikipedia.org/wiki/Entomology).
+2. **From business to business.** Peer-reviewed publications of clinical trial results seem more likely to spread ideas about requested scientific advancements than word of mouth because people might be reluctant to give tips that might help a competing dialysis clinic.
+3. **From discipline to discipline.** Transferring ideas from one discipline to another is a key strength of the co-scientist AI agent because of its ability to quickly search through the publications in many disciplines. For example, the idea on how to stabilize hemoglobin comes from [control theory](https://en.wikipedia.org/wiki/Control_theory) and the idea on how to reduce the dialysis clinic fruit fly infestation comes from [entomolgy](https://en.wikipedia.org/wiki/Entomology).
 
 # 5. Implementation strategy
-(TODO)
-The scientific method is a general purpose and skeptical approach to testing a wide variety of hypotheses. Co-scientist is an AI agent that automates parts of hypothesis testing. To demonstrate the co-scientist proof of concept, Google research developed and tested hypotheses in three biomedical areas:
-* drug repurposing,
-* novel target discovery, and
-* explaining mechanisms of anti-microbial resistance.
-
-This Improving Healthcare Science essay demonstrates the co-scientist proof of concept by developing and testing a fourth biomedical area: stabilizing the hemoglobin levels of kidney disease patients. The problem is interdisciplinary because control theory has been solving stability problems in other fields for a century. The co-scientist is especially helpful with interdisciplinary problems due to its ability to quickly aggregate information from separate fields (a task that is particularly difficult for people).
-
-thcare Science proof-of-concept is organized as a niche consulting business, where work happens only when there are good ideas to work on. To help find the good ideas to work on, apply the following list of four questions. Any idea that successfully traverses the entire gauntlet of questions is a good candidate for implementation.
-
-1. Is the problem easily measured?
+For an idea for a requested scientific advancement to transform into a reliably working demonstration, it must pass all of the following checklist.
+1. Is the problem well-defined?
 2. Has the problem been sufficiently studied?
-3. Has a similar problem been solved in a different discipline?
-4. Is an available person very interested in solving the problem?
+3. Is the problem easy to measure objectively?
+4. Is the problem apparent in local data?
+5. Is the solution affordable?
+6. Is the solution easily explained (i.e., transparent)?
+7. Is the solution reliable?
+8. Does the solution offer a significant (e.g., 2x) improvement over the original problem?
 
 # 6. Possible objections
 Because Improving Healthcare Science is a novel approach to testing and improving clinical care, the possible negative side effects must be considered and avoided. The following are common objections concerning AI.
