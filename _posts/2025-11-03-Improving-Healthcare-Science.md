@@ -170,7 +170,7 @@ Even if a requested scientific advancement is demonstrated to work reliably in o
 3. **From discipline to discipline.** Transferring ideas from one discipline to another is a key strength of the co-scientist AI agent because of its ability to quickly search through the publications in many disciplines. For example, the idea on how to stabilize hemoglobin comes from [control theory](https://en.wikipedia.org/wiki/Control_theory) and the idea on how to reduce the dialysis clinic fruit fly infestation comes from [entomolgy](https://en.wikipedia.org/wiki/Entomology).
 
 # 5. Implementation strategy
-For an idea for a requested scientific advancement to transform into a reliably working demonstration, it must pass all of the following checklist.
+For an idea for a requested scientific advancement to become a reliably working demonstration, it must pass all of the following checklist.
 1. Is the problem well-defined?
 2. Has the problem been sufficiently studied?
 3. Is the problem easy to measure objectively?
