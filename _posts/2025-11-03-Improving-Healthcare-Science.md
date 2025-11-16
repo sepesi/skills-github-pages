@@ -180,6 +180,8 @@ For an idea for a requested scientific advancement to become a reliably working 
 7. Is the solution reliable?
 8. Does the solution offer a significant (e.g., 2x) improvement over the original problem?
 
+In order to avoid conflicting with the usual command and control communication pattern in the dialysis clinic, all discussions about the requested scientific advancement will be off-site (e.g., a nearby cafe or maker space).
+
 # 6. Possible objections
 Because Improving Healthcare Science is a novel approach to testing and improving clinical care, the possible negative side effects must be considered and avoided. The following are common objections concerning AI.
 
