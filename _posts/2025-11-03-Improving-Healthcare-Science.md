@@ -47,7 +47,7 @@ The second part of the strategy is new: DeepMind's [co-scientist](https://resear
 * _"tournament evolution"_ designed to rank and continually improve the healthcare ideas.
 
 This combination of old and new strategies will be tested on two markedly different healthcare problems that are common in kidney dialysis clinics:
-1. stabilize the hemoglobin levels of dialysis patients who are taking erythropoietin stimulating agents (ESAs),
+1. stabilize the hemoglobin levels of dialysis patients who are taking erythropoiesis-stimulating agents (ESAs),
 2. reduce the fruit fly infestation in dialysis clinics by mechanically limiting access to food sources instead of frequently exposing the already vulnerable kidney dialysis patients to pesticides.
 
 Both tests would quickly fail if they were simply added to the already full workload of personnel at the clinic. Instead, the tests will be merged with the full workload at the clinic according to [implementation research](https://en.wikipedia.org/wiki/Implementation_research), which accounts for the tendency of organizations with strong cultures to quickly reject any nonconforming practice. The expected impact of the two tests at the clinic is a significant increase in the number of patients with stable hemoglobin levels and a significant decrease in fruit flies in the clinic. However, a similar strategy could apply to many other dialysis clinics and many other healthcare fields.
@@ -63,7 +63,7 @@ The [scientific method](https://en.wikipedia.org/wiki/Scientific_method) is a se
 * The method was formalized in 17th-century Europe. [Francis Bacon](https://en.wikipedia.org/wiki/Francis_Bacon) argued for [inductive reasoning](https://en.wikipedia.org/wiki/Inductive_reasoning) and systematic experimentation instead of assuming ancient authorities were correct. Contemporaries like [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei), [Johannes Kepler](https://en.wikipedia.org/wiki/Johannes_Kepler), and [Isaac Newton](https://en.wikipedia.org/wiki/Isaac_Newton) combined mathematical theory with empirical observation and experimentation, demonstrating the method's extraordinary potential.
 
 ## 2.2 Bundled payments for erythropoietin
-Patients with failed kidneys often do not make enough [erythropoietin](https://en.wikipedia.org/wiki/Erythropoietin) and therefore develop [anemia](https://en.wikipedia.org/wiki/Anemia). That condition is so common among kidney dialysis patients that, prior to 2011 when the reimbursement for the expensive erythropoiesis-stimulating agents (ESAs) were reimbursed as a fee-for-service, almost two thirds of the total income of dialysis clinics in the United States came from the administration of ESAs, such as epoetin alfa (EPO) and darbepoetin alfa (Aranesp). However, in January of 2011, the Centers for Medicare & Medicaid Services (CMS) implemented a "bundled" payment system that consolidated payment for a wide range of services and drugs, including ESAs and intravenous (IV) iron, into a single fixed payment per dialysis treatment.
+Patients with failed kidneys often do not make enough [erythropoietin](https://en.wikipedia.org/wiki/Erythropoietin) and therefore develop [anemia](https://en.wikipedia.org/wiki/Anemia). That condition is so common among kidney dialysis patients that, prior to 2011 when the expensive erythropoiesis-stimulating agents (ESAs) were reimbursed as a fee-for-service, almost two thirds of the total income of dialysis clinics in the United States came from the administration of ESAs, such as epoetin alfa (EPO) and darbepoetin alfa (Aranesp). However, in January of 2011, the Centers for Medicare & Medicaid Services (CMS) implemented a "bundled" payment system that consolidated payment for a wide range of services and drugs, including ESAs and intravenous (IV) iron, into a single fixed payment per dialysis treatment.
 
 As intended, the CMS policy change quickly reduced the overuse of ESAs by replacing the financial incentive for administering more ESAs with one for administering less. However, with the new policy, there was no new guidance on how to administer ESAs so that the patient's hemoglobin remained stable. Instead, hemoglobin oscillates between dangerously low and dangerously high levels. That condition, called hemoglobin cycling, is surprisingly common. For example, among the 281 patients [studied](https://pubmed.ncbi.nlm.nih.gov/16105069/) at the Winthrop-University Hospital Dialysis Centers, more than 90% experienced dangerously oscillating hemoglobin.
 
@@ -76,8 +76,7 @@ A typical health record plot shows a time series of measurements. If there are m
 ![image](https://cdn-images-1.medium.com/max/1000/1*AEnXFI8X55eReQWFTnDDKQ.png "MyChart plot")
 Figure 2-1 Screenshot of MyChart by Epic Systems Corporation showing a time series of red blood cell count measurements and the normal range with a green background  
 
-
-In contrast to the style of MyChart plots, Edward Tufte's small multiple plots increase data density and therefore use less of the reader's working memory.² For example, Figure 2–2 displays the same red blood cell count time series as shown in Figure 2-1 but right next to other time series related to kidney function.
+n contrast to the style of MyChart plots, Edward Tufte's small multiple plots increase data density and therefore use less of the reader's working memory.² For example, Figure 2–2 displays the same red blood cell count time series as shown in Figure 2-1 but right next to other time series related to kidney function.
 
 ![image](https://cdn-images-1.medium.com/max/1000/1*7ItYKCmFh9XYWzuCC86Y8g.png "small_multiple")
 Figure 2-2 Small multiple plots in a dashboard about kidney function (plotted by Julia and Makie). The proposed dashboards are organized by organ (e.g., kidney, heart, liver) instead of by blood test (e.g., Complete Blood Count). Each dashboard contains up to 16 time series small multiple plots (i.e., up to eight calendar time plots alongside their corresponding clock time plots).  
@@ -143,7 +142,7 @@ Communication in a dialysis clinic is mostly command and control, which is parti
 In contrast, the proposed flow of communication is a combination of hub-and-spoke communication followed by the usual command and control communication. The hub-and-spoke communication is an attempt to avoid a bias against ideas from the nurses/technicians and the patients. To avoid conflicting with the usual command and control communication in the clinic, the hub-and-spoke communication will be a series of meetings outside the clinic (e.g., a nearby cafe or maker space) in which everyone has a chance to freely voice their ideas. The ideas will be ranked by the co-scientist and then delivered to the dialysis clinic doctors, where the ideas can be dispersed through the usual command and control communication in the clinic.
 
 ![Image](../images/IHS_comm2.png "hub-and-spoke flow of communication")  
-**Figure 4-2. Hub-and-spoke off-site communication followed by usual floww of communication in dialysis clinic.**
+**Figure 4-2. Hub-and-spoke off-site communication followed by usual flow of communication in dialysis clinic.**
   
 ## 4.2 File structure
 The data acquired for the proposed hemoglobin stability test and the fruit fly population control test will be stored in tab-separated ASCII text values, where each logged measurement has its own row in the text file. This simple file format makes importing the data into spreadsheet applications (for custom experimental analysis) simple (i.e., copy and paste).
@@ -156,24 +155,23 @@ To reduce the burden of manual data entry, most of the logged measurements in th
 To help ensure the features for the proposed tests remain aligned with customer needs (including affordable prices), feature development will be primarily funded by fees on optional features instead of by debt or venture capital.
 
 ## 4.4 Price structure
-The concern about the high cost of healthcare often focuses on payment (e.g., health insurance subsidies) instead of efficiency. However, to significantly lower the cost of healthcare, more focus is needed on the efficiency of healthcare. For example, instead of treating dialysis patients individually to stabilize their hemoglobin levels, is it possible to treat them as a patient cohort? A cohort of patients with unstable hemoglobin levels (i.e., about 95% of dialysis patients receiving ESA treatments) can be automatically ranked and [triaged](https://en.wikipedia.org/wiki/Triage) according to their level of hemoglobin level instability. Then, healthcare from a human can be limited to just the third of the patient cohort needing the most help with stabilizing their hemoglobin levels. THe other two thirds of the cohort can track their own progress in stabilizing their hemoglobin levels by seeing their automated ranking within their cohort. For example, "Congratulations, this month you have the third most stable hemoglobin level in your patient cohort."
+The concern about the high cost of healthcare often focuses on payment (e.g., health insurance subsidies) instead of efficiency. However, to significantly lower the cost of healthcare, more focus is needed on the efficiency of healthcare. For example, instead of treating dialysis patients individually to stabilize their hemoglobin levels, is it possible to treat them as a patient cohort? A cohort of patients with unstable hemoglobin levels (i.e., about 95% of dialysis patients receiving ESA treatments) can be automatically ranked and [triaged](https://en.wikipedia.org/wiki/Triage) according to their level of hemoglobin level instability. Then, healthcare from a human can be limited to just the third of the patient cohort needing the most help with stabilizing their hemoglobin levels. The other two thirds of the cohort can track their own progress in stabilizing their hemoglobin levels by seeing their automated ranking within their cohort. For example, "Congratulations, this month you have the third most stable hemoglobin level in your patient cohort."
 
 In addition to increasing efficiency, another way to decrease the high cost of healthcare is to offer rewards that are highly valued but not monetary. Examples of non-monetary rewards that can be offered to dialysis clinic nurses and technicians (who are already receiving their base pay from the dialysis clinic) are
 * a weekly free lunch with your closest coworkers,
 * a chance to learn skills that are highly valued in the healthcare field,
 * a chance to learn skills that are highly valued in other fields,
-* the satisfaction of seeing the positive impact of your work,
-* recognition outside of your clinic, and
-* a monetary bonus if the test results are helpful enough to be adopted by other dialysis clinics.
+* the satisfaction of seeing the positive impact of your work, and
+* recognition outside of your clinic.
 
-A fair price must account for supply and demand, as in an [auction](https://en.wikipedia.org/wiki/Auction). The demand side will be a queue of requested scientific advancements along with the bonus price the requester is willing to pay if the requested scientific advanceent is demonstrated to work reliably. The supply side will be a queue of available healthcare professionals along with their minimal bonus they are willing to accept for accomplishing a requested scientific advancement and their reputation score from previous work on requested scientific advancements. Fair prices will be set by matching items in the demand queue with items in the supply queue.
+A fair price must account for supply and demand, as in an [auction](https://en.wikipedia.org/wiki/Auction). The demand side will be a queue of requested scientific advancements along with the bonus price the requester is willing to pay if the requested scientific advancement is demonstrated to work reliably. The supply side will be a queue of available healthcare professionals along with their minimal bonus they are willing to accept for accomplishing a requested scientific advancement and their reputation score from previous work on requested scientific advancements. Fair prices will be set by matching items in the demand queue with items in the supply queue.
 
 ## 4.5 Growth structure
 Even if a requested scientific advancement is demonstrated to work reliably in one dialysis clinic, the idea needs to spread to have a broad impact. This proposal promotes the spread of ideas in several ways:
 
 1. **From person to person.** Starting with just two dialysis clinic nurses/technicians, they will be the ones to encourage some of their co-workers to join. 
 2. **From business to business.** Peer-reviewed publications of clinical trial results seem more likely to spread ideas about requested scientific advancements than word of mouth because people might be reluctant to give tips that might help a competing dialysis clinic.
-3. **From discipline to discipline.** Transferring ideas from one discipline to another is a key strength of the co-scientist AI agent because of its ability to quickly search through the publications in many disciplines. For example, the idea on how to stabilize hemoglobin comes from [control theory](https://en.wikipedia.org/wiki/Control_theory) and the idea on how to reduce the dialysis clinic fruit fly infestation comes from [entomolgy](https://en.wikipedia.org/wiki/Entomology).
+3. **From discipline to discipline.** Transferring ideas from one discipline to another is a key strength of the co-scientist AI agent because of its ability to quickly search through the publications in many disciplines. For example, the idea on how to stabilize hemoglobin comes from [control theory](https://en.wikipedia.org/wiki/Control_theory) and the idea on how to reduce the dialysis clinic fruit fly infestation comes from [entomology](https://en.wikipedia.org/wiki/Entomology).
 
 # 5. Implementation strategy
 For an idea for a requested scientific advancement to become a reliably working demonstration, it must pass all of the following checklist.
@@ -187,7 +185,7 @@ For an idea for a requested scientific advancement to become a reliably working 
 8. Is the rate of improvement fast enough (e.g., 10% improvement per week)?
 9. Does the solution offer a significant (e.g., 2x) improvement over the original problem?
 
-To avoid conflicting with the usual command and control communication pattern in the dialysis clinic, all discussions about the requested scientific advancement will be off-site (e.g., a nearby cafe or maker space). To avoid wasting time working on a dead-end, a requested scientific advancement with a currently stalled checklist is set aside and replaced by work on a different requested scientific advanceent.
+To avoid conflicting with the usual command and control communication pattern in the dialysis clinic, all discussions about the requested scientific advancement will be off-site (e.g., a nearby cafe or maker space). To avoid wasting time working on a dead-end, a requested scientific advancement with a currently stalled checklist is set aside and replaced by work on a different requested scientific advancement.
 
 The solution to the requested scientific advancement is expected to steadily improve, as shown in the [documentation](https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/) of the co-scientist, where the [ELO rating](https://en.wikipedia.org/wiki/Elo_rating_system) was a method originally for calculating the relative skill of chess players, but has been adopted to score the relative skill of professional sporting teams and, more recently, Large Language Models.
 
@@ -200,7 +198,7 @@ This continuous improvement in working solutions developed by already-hired staf
 Because Improving Healthcare Science is a novel approach to testing and improving clinical care, the possible negative side effects must be considered and avoided. The following are common objections concerning AI.
 
 ## 6.1 It'll never work
-**OBJECTION:** Given the significant hype surrounding artificial intelligence, There is so much AI hype, claims that AI will meaningfully advance scientific discovery are met with considerable skepticism.    
+**OBJECTION:** Given the significant hype surrounding artificial intelligence, claims that AI will meaningfully advance scientific discovery are met with considerable skepticism.    
 **RESPONSE:** The group that developed co-scientist is the same group that developed [AlphaFold](https://en.wikipedia.org/wiki/AlphaFold), which had such a positive impact on science that the 2024 Nobel Prize in Chemistry was awarded to Demis Hassabis and John Jumper of Google DeepMind. While that is no guarantee that co-scientist will also have a positive impact on science, the stellar reputation of the group that developed co-scientist is not AI hype.
 
 ## 6.2 It'll take work from people
