@@ -2,6 +2,9 @@
 title: "Improving Healthcare Science"
 date: 2025-11-03
 ---
+# Improving Healthcare Science
+Greg Sepesi, 11 November 2025
+
 # 0. Executive summary
 The following two paragraph executive summary was written by Gemini 2.5 deep research,
 > "Improving Healthcare Science" argues that the stagnation in clinical outcomes, particularly in renal care, stems from a "Cargo Cult" approach to medicine—mimicking the forms of science without the requisite "scientific integrity" described by Richard Feynman. To counter this, the proposal suggests a dual strategy: reinstating the ethical discipline of "leaning over backwards" to disclose all conflicting information, and deploying Google DeepMind’s AI Co-scientist to augment human reasoning. By utilizing the AI's "generate, debate, and evolve" architecture, the plan aims to democratize high-level scientific inquiry, enabling frontline nurses and technicians to generate and continually refine hypotheses through "tournament evolution," thereby converting dialysis clinics from static service centers into active research environments.  
@@ -230,7 +233,7 @@ As Hinton suggests, healthcare is a field where efficiency gains from AI are lik
 (TODO)
 
 # 8. Conclusion
-The job titles that currently employ the scientific method most frequently include medical scientist, research scientist, epidemiologist (i.e., disease detective), clinical research scientist, data scientists, and experimental psychologist. This essay proposes expanding the reach of the scientific method by bringing DeepMind's co-scientist AI agent to nurses and technicians within kidney dialysis clinics. The underlying premise is that nurses and technicians in kidney dialysis clinics have plenty of good ideas about healthcare but their work hours are already fully booked with doing tasks for the many dialysis patients and doing data collection for the doctors. What if, one lunch break per week, they were given the chance to openly discuss their healthcare ideas and possibly see them tested in a clinical trial? How rewarding would that be? If that concept works in a kidney dialysis clinic, would it also work with nurses and technicians in other medical fields?
+The job titles that currently employ the scientific method most frequently include medical scientist, research scientist, epidemiologist (i.e., disease detective), clinical research scientist, data scientists, and experimental psychologist. This essay proposes expanding the reach of the scientific method by bringing DeepMind's co-scientist AI agent to nurses and technicians within kidney dialysis clinics. The underlying premise is that nurses and technicians in kidney dialysis clinics see many practical problems and have plenty of good ideas to solve them but their work hours are already fully booked with doing tasks for the many dialysis patients and doing data collection for the doctors. What if, one lunch break per week, they were given the chance to openly discuss their healthcare ideas and possibly see them tested in a clinical trial? How rewarding would that be? If that concept works in a kidney dialysis clinic, would it also work with nurses and technicians in other medical fields?
 
 # References
 1. Shinners, Stanley M., [_Modern Control System Theory and Application_](https://www.amazon.com/Control-Application-Addison-Wesley-Electrical-Engineering/dp/020107494X), 2nd edition, Addison-Wesley, 1978. ISBN: 020107494X.
