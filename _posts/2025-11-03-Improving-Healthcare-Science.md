@@ -141,7 +141,7 @@ A handful of simple structures summarize the proposed design.
 ## 4.1 Communication structure
 Communication in a dialysis clinic is mostly command and control, which is particularly effective when there is an established standard of care that needs to be administered to hundreds of patients. In a dialysis clinic, instructions flow from the doctors to the patients. Data (e.g., [vital signs](https://en.wikipedia.org/wiki/Vital_signs)) flows in the opposite direction, from patients to doctors.
 
-![Figure 4-1](/images/IHS_comm1.png "usual flow of communication")  
+![Figure 4-1](/skills-github-pages/images/IHS_comm1.png "usual flow of communication")  
 **Figure 4-1. Usual flow of communication in dialysis clinic**
 
 In contrast, the proposed flow of communication is a combination of hub-and-spoke communication followed by the usual command and control communication. The hub-and-spoke communication is an attempt to avoid a bias against ideas from the nurses/technicians and the patients. To avoid conflicting with the usual command and control communication in the clinic, the hub-and-spoke communication will be a series of meetings outside the clinic (e.g., a nearby cafe or maker space) in which everyone has a chance to freely voice their ideas. The ideas will be ranked by the co-scientist and then delivered to the dialysis clinic doctors, where the ideas can be dispersed through the usual command and control communication in the clinic.
