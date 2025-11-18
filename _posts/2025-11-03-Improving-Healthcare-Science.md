@@ -3,7 +3,7 @@ title: "Improving Healthcare Science"
 date: 2025-11-03
 ---
 # Improving Healthcare Science
-Greg Sepesi, 11 November 2025
+## Greg Sepesi, 11 November 2025
 
 # 0. Executive summary
 The following two paragraph executive summary was written by Gemini 2.5 deep research,
