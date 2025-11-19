@@ -197,7 +197,7 @@ The solution to the requested scientific advancement is expected to steadily imp
 ![image](https://storage.googleapis.com/gweb-research2023-media/images/AICoScientist-4-BestHypothesis.width-1250.png)  
 **Figure 5-1. Example of the continuing improvement of the co-scientist's hypotheses.**
 
-This continuous improvement in working solutions developed by already-hired staff contrasts with consultants (who give advice but no implementation), sales engineers (who are embedded to make a demonstration but not a working solution) and software engineers (who maintain commercial, rather than custom, applications).
+This continuous improvement in working solutions developed by already-hired staff contrasts with consultants (who give advice but no implementation), sales engineers (who are embedded to make a demonstration but not a working solution), software engineers (who maintain commercial, rather than custom, applications), and [forward-deployed software engineers](https://en.wikipedia.org/wiki/Palantir_Technologies) (who, for a premium price, embed themselves in the organization for several months to develop a working custom application).
 
 # 6. Possible objections
 Because Improving Healthcare Science is a novel approach to testing and improving clinical care, the possible negative side effects must be considered and avoided. The following are common objections concerning AI.
